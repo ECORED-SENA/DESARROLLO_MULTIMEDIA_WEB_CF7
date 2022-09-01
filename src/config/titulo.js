@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Desarrollo de los elementos gráficos y audiovisuales del proyecto multimedia'
