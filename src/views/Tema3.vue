@@ -27,7 +27,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col
-            p.mb-0 Teniendo presente las nuevas herramientas tecnológicas para las capturas de imágenes se puede decir que sirven para extraer toda o una parte de una imagen que se ve en las pantallas de los dispositivos digitales tales como un PC, una tablet o un móvil, es decir, de la misma forma que se toman fotografías con una cámara se puede realizar capturas, ya sea con las herramientas predeterminadas de los sistemas operativos como Windows y Mac o herramientas independientes que se pueden instalar en los dispositivos, con características y funciones más avanzadas. Algunas de estas herramientas de captura de imagen son de uso gratuito y otras en la que su uso depende de pago: 
+            p.mb-0 Teniendo presente las nuevas herramientas tecnológicas para las capturas de imágenes se puede decir que sirven para extraer toda o una parte de una imagen que se ve en las pantallas de los dispositivos digitales tales como un PC, una #[em tablet] o un móvil, es decir, de la misma forma que se toman fotografías con una cámara se puede realizar capturas, ya sea con las herramientas predeterminadas de los sistemas operativos como Windows y Mac o herramientas independientes que se pueden instalar en los dispositivos, con características y funciones más avanzadas. Algunas de estas herramientas de captura de imagen son de uso gratuito y otras en la que su uso depende de pago: 
 
         .tarjeta.color-secundario.p-3.mb-4
           .row.justify-content-around.align-items-center
@@ -97,7 +97,7 @@
             figcaption.text-center Proceso de captura de movimiento con movimiento óptico, (por infrarrojos) y el esqueleto digital generado
 
           .col-12.mt-4
-            p.mb-0 Además de estos dos tipos existe otro de reciente creación, que todavía no es muy usado. Se trata de los sistemas de captura de movimiento inerciales en los que los sensores capturan la inercia de los movimientos y la traducen en tres valores “roll, yaw y pitch”. La principal ventaja de los sistemas de captura de movimiento no ópticos es su enorme precisión, sobre todo comparada con los ópticos, ya que están calibrados para obtener la máxima precisión. Su desventaja principal es el precio, ya que son más caros que lo ópticos y lo incómodo para el actor, ya que sus movimientos se pueden ver restringidos por el propio traje.   
+            p.mb-0 Además de estos dos tipos existe otro de reciente creación, que todavía no es muy usado. Se trata de los sistemas de captura de movimiento inerciales en los que los sensores capturan la inercia de los movimientos y la traducen en tres valores “#[em roll, yaw y pitch]”. La principal ventaja de los sistemas de captura de movimiento no ópticos es su enorme precisión, sobre todo comparada con los ópticos, ya que están calibrados para obtener la máxima precisión. Su desventaja principal es el precio, ya que son más caros que lo ópticos y lo incómodo para el actor, ya que sus movimientos se pueden ver restringidos por el propio traje.   
   
 
 

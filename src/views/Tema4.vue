@@ -29,7 +29,7 @@
               figure
                 img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
             .col.mb-4.mb-lg-0
-              p.mb-0 Mediante un proceso estratégico y creativo se crean campañas publicitarias con el fin de dar a conocer la identidad de una empresa o presentar un producto o servicio. La gráfica digital hace parte de estos procesos, pero la diferencia es que no va dirigida a los medios tradicionales, si no que va dirigida a los medios digitales como Internet, sitios web, redes sociales, videojuegos, etc.
+              p.mb-0 Mediante un proceso estratégico y creativo se crean campañas publicitarias con el fin de dar a conocer la identidad de una empresa o presentar un producto o servicio. La gráfica digital hace parte de estos procesos, pero la diferencia es que no va dirigida a los medios tradicionales, si no que va dirigida a los medios digitales como Internet, sitios #[em web], redes sociales, videojuegos, etc.
           
         .col-lg-4.col-8
           figure
@@ -51,11 +51,11 @@
 
           .row(numero="2" titulo="Multimedialidad")
             .col
-              p.mb-0 Esta característica de la comunicación digital propone que el emisor pueda ser al mismo tiempo receptor y viceversa. ¡Quedó atrás el receptor pasivo! Con una comunicación multidireccional el usuario se convierte en un agente activo que no solo participa de los mensajes, sino también los genera a través de las diversas plataformas.
+              p.mb-0 Si bien los medios tradicionales como la prensa, la radio y la televisión son los principales canales de comunicación para llegar a una comunidad de masas, con la aparición de la comunicación digital se puede acceder a contenidos valiosos en tiempo real, a través de múltiples canales en línea. Esta característica de la comunicación digital reúne diversos medios que están en sintonía en un mismo sitio.
 
           .row(numero="3" titulo="Interactividad")
             .col
-              p.mb-0 Otra de las características de la comunicación digital es la participación de los usuarios. La fácil accesibilidad a los medios online permite que los clientes puedan interactuar con su marca a través de las redes sociales, los foros, las páginas web, etc.
+              p.mb-0 Otra de las características de la comunicación digital es la participación de los usuarios. La fácil accesibilidad a los medios #[em online] permite que los clientes puedan interactuar con su marca a través de las redes sociales, los foros, las páginas #[em web], etc.
 
           .row(numero="4" titulo="Actualización en tiempo real")
             .col
@@ -123,7 +123,7 @@
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-2.mb-lg-0
             h3 Format H264
-            p.mb-0 Es el formato de video más usado, conocido como MPEG-4, usa compresión con pérdida y es un formato universal de video de uso común en la actualidad. El códec es ampliamente compatible y se utiliza en la producción, publicación y distribución de video. Es un formato que está incorporado en videocámaras y DSLR graban en H.264. Es el estándar para discos Blu-ray, así como para muchos servidores de videoweb. H.264 es más eficiente para la compresión que MPEG-2 y normalmente ofrece una mejor calidad de video con la misma tasa de bits.     
+            p.mb-0 Es el formato de video más usado, conocido como MPEG-4, usa compresión con pérdida y es un formato universal de video de uso común en la actualidad. El códec es ampliamente compatible y se utiliza en la producción, publicación y distribución de video. Es un formato que está incorporado en videocámaras y DSLR graban en H.264. Es el estándar para discos Blu-ray, así como para muchos servidores de #[em videoweb]. H.264 es más eficiente para la compresión que MPEG-2 y normalmente ofrece una mejor calidad de video con la misma tasa de #[em bits].     
           .col-lg-3.col-8
             figure
               img(src='@/assets/curso/temas/t4/t4_08.svg', alt='').img120.m-auto
@@ -139,7 +139,7 @@
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-2.mb-lg-0
             h3 Format WMV
-            p.mb-0 Dentro de los tipos de formato de video para Apple es el mejor. Apple desarrolló el contenedor .MOV para usar con su reproductor Quicktime. Los videos que usan .MOV generalmente tienen una calidad muy alta, pero también tamaños de archivo bastante grandes. Los videos de Quicktime no tienen tanta compatibilidad con los reproductores que no son de Quicktime, aunque hay reproductores de terceros que los leerán. Este formato es útil para guardar el archivo de un video de alta calidad en una computadora Apple.    
+            p.mb-0 Los videos de Windows Media tienden a tener el tamaño de archivo más pequeño, lo que puede ser una buena opción para compartirlos por correo electrónico u otros métodos con límites de tamaño de archivo. Cabe decir que, en su compresión se pierde calidad. Un uso común de .WMV es enviar vistas previas de videos por correo electrónico a los clientes. Windows Media Video es un formato compatible con PowerPoint, por ser un formato de Microsoft.   
           .col-lg-3.col-8
             figure
               img(src='@/assets/curso/temas/t4/t4_10.svg', alt='').img120.m-auto
@@ -155,7 +155,8 @@
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-2.mb-lg-0
             h3 Format RM
-            p.mb-0 RM es un archivo multimedia guardado en el formato de contenedor multimedia RealMedia desarrollado por RealNetworks. Puede almacenar solo audio en formato RealAudio, solo video en formato RealVideo, o tanto RealAudio como RealVideo. Los archivos RM se utilizan comúnmente para transmitir contenido a través de Internet, como video y radio por Internet.<br><br>El reproductor Real Player utiliza el formato RM para reproducir archivos de audio y video en todos los sistemas operativos, incluidos Linux, Mac y Windows.    
+            p.mb-0 RM es un archivo multimedia guardado en el formato de contenedor multimedia RealMedia desarrollado por RealNetworks. Puede almacenar solo audio en formato RealAudio, solo video en formato RealVideo, o tanto RealAudio como RealVideo. Los archivos RM se utilizan comúnmente para transmitir contenido a través de Internet, como video y radio por Internet.
+            p.mb-0 El reproductor Real Player utiliza el formato RM para reproducir archivos de audio y video en todos los sistemas operativos, incluidos Linux, Mac y Windows.    
           .col-lg-3.col-8
             figure
               img(src='@/assets/curso/temas/t4/t4_12.svg', alt='').img120.m-auto
@@ -175,7 +176,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col.mb-4.mb-lg-0
-            p.mb-0 Es importante cuando se habla de video tener en cuenta las siguientes características para su realización. Los formatos de video han ido cambiando con la evolución de la tecnología, cuando aparecieron los primeros formatos de video digital a finales de los años 80 solamente existían dos criterios: el tamaño de imagen (ancho x alto) y el frame rate (imágenes por segundo que hay en el formato), a los dos criterios se unió un tercero con la aparición de los formatos de grabación digital, el aspecto de pixel (PAR).
+            p.mb-0 Es importante cuando se habla de video tener en cuenta las siguientes características para su realización. Los formatos de video han ido cambiando con la evolución de la tecnología, cuando aparecieron los primeros formatos de video digital a finales de los años 80 solamente existían dos criterios: el tamaño de imagen (ancho x alto) y el #[em frame rate] (imágenes por segundo que hay en el formato), a los dos criterios se unió un tercero con la aparición de los formatos de grabación digital, el aspecto de pixel (PAR).
         .cajon.cjn--grayBlue.p-4
           p.mb-0 En la actualidad un formato de video digital está constituido por estas 3 características:
 
@@ -190,7 +191,7 @@
         .crd.bg--paleYellow.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_15.svg", alt="alt").img75
-          p.mb-0 La cantidad de imágenes por segundo que tiene el formato (frame rate). 
+          p.mb-0 La cantidad de imágenes por segundo que tiene el formato (#[em frame rate]). 
 
       .col-lg-4.col-8.mb-4.mb-lg-0
         .crd.bg--paleGray.brad_01.hg-100.p-4
@@ -223,11 +224,11 @@
           img(src="@/assets/curso/temas/t4/t4_18.svg", alt="alt")
       .col-lg-7
         LineaTiempoD.color-acento-botones.mb-5
-          .row(numero="1" titulo="Frame rate")
+          .row(numero="1" titulo="<em>Frame rate</em>")
             .col
-              p La frecuencia o cadencia de imagen (frame rate), es decir, la cantidad de fotogramas o frames que hay en un segundo para dar la sensación de movimiento, esto es, el número de imágenes fijas necesarias para crear un segundo de video.
+              p La frecuencia o cadencia de imagen (#[em frame rate]), es decir, la cantidad de fotogramas o frames que hay en un segundo para dar la sensación de movimiento, esto es, el número de imágenes fijas necesarias para crear un segundo de video.
               .cajon.cjn--grayBlue.p-4
-                p.mb-0 El frame rate es muy importante porque  va a permitir saber ante qué formatos de video se encuentran, se puede saber si está trabajando para un formato de cine, un formato de ultra alta, etc. El frame rate es una de las características principales de los formatos de video.
+                p.mb-0 El #[em frame rate] es muy importante porque  va a permitir saber ante qué formatos de video se encuentran, se puede saber si está trabajando para un formato de cine, un formato de ultra alta, etc. El #[em frame rate] es una de las características principales de los formatos de video.
 
           .row(numero="2" titulo="El aspecto de píxel")
             .col
@@ -256,7 +257,7 @@
 
           .row(numero="6" titulo="Ubicación de reproducción")
             .col
-              p.mb-0 Identificar las tendencias de la audiencia, conocer en dónde prefieren ver los videos, determinar dónde están reproduciendo los videos puede ayudar a entender, es decir, ¿buscan los videos desde algún canal como es YouTube o a partir de diferentes Web?
+              p.mb-0 Identificar las tendencias de la audiencia, conocer en dónde prefieren ver los videos, determinar dónde están reproduciendo los videos puede ayudar a entender, es decir, ¿buscan los videos desde algún canal como es YouTube o a partir de diferentes #[em web]?
 
           .row(numero="7" titulo="Audiencia")
             .col
@@ -285,7 +286,7 @@
               img(src='@/assets/curso/temas/t4/t4_20.png', alt='')
           .col-lg-8
             h4 YouTube Analytics
-            p.mb-0 Si los videos están subidos a esta plataforma es el mejor sitio para iniciar con un análisis en profundidad de forma gratuita. Con esta herramienta se pueden realizar revisiones estadísticas para toda la información comentada en el post y mucho más.
+            p.mb-0 Si los videos están subidos a esta plataforma es el mejor sitio para iniciar con un análisis en profundidad de forma gratuita. Con esta herramienta se pueden realizar revisiones estadísticas para toda la información comentada en el #[em post] y mucho más.
 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -293,7 +294,7 @@
               img(src='@/assets/curso/temas/t4/t4_21.png', alt='')
           .col-lg-8
             h4 Google Analytics 
-            p.mb-0 Esta herramienta permite rastrear la interacción de la audiencia con los videos integrados en sitios web. Se puede conocer si el público reproduce los videos hasta realizar un seguimiento de la frecuencia con la que los visitantes los ven hasta el final. Incluso se pueden rastrear las pausas y algunos otros eventos.
+            p.mb-0 Esta herramienta permite rastrear la interacción de la audiencia con los videos integrados en sitios #[em web]. Se puede conocer si el público reproduce los videos hasta realizar un seguimiento de la frecuencia con la que los visitantes los ven hasta el final. Incluso se pueden rastrear las pausas y algunos otros eventos.
 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -340,7 +341,9 @@
         .crd.bg--paleYellow.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_26.svg", alt="alt").img75
-          p.mb-0 #[strong Captar la atención:] hay varios temas en un audiovisual que requieren de un análisis detallado. Pueden ser aquellos en los que se da el mensaje principal, el comienzo o el final de la producción o simplemente cualquier tema a resaltar.<br><br>La diferencia de volumen, la incorporación de melodías diferentes e incluso el cambio de tono de la escena servirán para captar la atención del espectador.
+          p #[strong Captar la atención:] hay varios temas en un audiovisual que requieren de un análisis detallado. Pueden ser aquellos en los que se da el mensaje principal, el comienzo o el final de la producción o simplemente cualquier tema a resaltar.
+
+          p.mb-0 La diferencia de volumen, la incorporación de melodías diferentes e incluso el cambio de tono de la escena servirán para captar la atención del espectador.
 
       .col-lg-4.col-8.mb-4.mb-lg-0
         .crd.bg--paleGray.brad_01.hg-100.p-4
@@ -368,7 +371,7 @@
 
           .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left
             h4 Audicity
-            p Fue creado en el año 2000 y sigue siendo uno de los programas de edición de audio más conocidos que existen. Es un software gratuito, de código abierto y multiplataforma que es muy fácil de usar para cualquier persona sin experiencia previa en edición de audio. Estas son algunas de las muchas cosas que puede hacer con él:           
+            p Fue creado en el año 2000 y sigue siendo uno de los programas de edición de audio más conocidos que existen. Es un #[em software] gratuito, de código abierto y multiplataforma que es muy fácil de usar para cualquier persona sin experiencia previa en edición de audio. Estas son algunas de las muchas cosas que puede hacer con él:           
             ul.fa-ul
               li
                 i.fa-li.fas.fa-caret-right.clr--orange
@@ -390,7 +393,7 @@
                 | Agregar complementos como LV2 y VST para mejorar aún más su audio.
               li
                 i.fa-li.fas.fa-caret-right.clr--orange
-                | Importar / exportar audios de 16 bits, 24 bits y 32 bits para obtener una excelente calidad de sonido.
+                | Importar / exportar audios de 16 #[em bits], 24 #[em bits] y 32 #[em bits] para obtener una excelente calidad de sonido.
               li
                 i.fa-li.fas.fa-caret-right.clr--orange
                 | Audacity es compatible con varios sistemas operativos, incluidos Windows, MacOS y Linux.
@@ -407,7 +410,7 @@
 
             p Su pantalla y su panel de sonido esencial lo ayudan a restaurar los audios y lograr una calidad de nivel profesional, incluso si no es un profesional en lo que hace. Sin mencionar que también puede hacer remezclas de audio reorganizando las pistas para que se ajusten a cualquier duración. Si su audio existente tiene problemas, puede solucionarlo y sus herramientas integradas, como el panel de diagnóstico, la reducción de audio, DeClipper y DeHummer.
 
-            p Adobe Audition está hecho para varios propósitos de utilización de audio, incluidos podcasts, que exigen un sonido muy nítido hoy en día. Por lo tanto, puede visualizar claramente qué tan buenos serán sus audios editados con este software.
+            p Adobe Audition está hecho para varios propósitos de utilización de audio, incluidos podcasts, que exigen un sonido muy nítido hoy en día. Por lo tanto, puede visualizar claramente qué tan buenos serán sus audios editados con este #[em software].
 
       .py-3.py-md-4(titulo="WavePad")
         .row.justify-content-center.align-items-center 
@@ -421,7 +424,7 @@
 
             p Es compatible con los principales formatos de audio y le permite cortar, copiar, recortar, dividir, amplificar, ecualizar y normalizar sus pistas de audio en cuestión de segundos. Si es alguien que produce muchas bandas sonoras o cualquier audio y quiere ahorrar tiempo en el proceso de edición, puede utilizar su función de procesamiento por lotes para editarlos todos a la vez. Es muy útil para las personas que están ocupadas y quieren algo rápido.
 
-            p.mb-0 WavePad se puede descargar de forma gratuita en Windows, Mac, IOS, Android y Chromebook con funciones limitadas. Para desbloquear todo el potencial de este software debe elegir su versión paga.
+            p.mb-0 WavePad se puede descargar de forma gratuita en Windows, Mac, IOS, Android y Chromebook con funciones limitadas. Para desbloquear todo el potencial de este #[em software] debe elegir su versión paga.
 
       .py-3.py-md-4(titulo="TwistedWave")
         .row.justify-content-center.align-items-center 
@@ -473,12 +476,12 @@
                 | Eliminar los ruidos de fondo innecesarios.
               li
                 i.fa-li.fas.fa-caret-right.clr--orange
-                | Cambiar la tasa de bits del sonido a cualquier nivel.
+                | Cambiar la tasa de #[em bits] del sonido a cualquier nivel.
               li
                 i.fa-li.fas.fa-caret-right.clr--orange
                 | Convertir el texto escrito en una voz que suene natural, todo gracias a su función de texto a voz. 
 
-            p.mb-0 Dado que este software solo está disponible para Windows, puede descargarlo en las versiones Vista, 2003, XP, 7, 8, 8.1 y 10.
+            p.mb-0 Dado que este #[em software] solo está disponible para Windows, puede descargarlo en las versiones Vista, 2003, XP, 7, 8, 8.1 y 10.
 
       .py-3.py-md-4(titulo="Logic Pro")
         .row.justify-content-center.align-items-center 
@@ -488,15 +491,15 @@
 
           .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left
             h4 Logic Pro
-            p De Apple le permite implementar algunas de las prácticas de edición y producción de audio más exigentes. Puede utilizar sus funciones Step Sequencer, Sampler y Quick Sampler para crear ritmos de batería, patrones melódicos y transformar sonidos en instrumentos, todo en un santiamén.
-            p.mb-0 Además de eso, puede agregar efectos de estilo DJ, tocar cualquier instrumento (guitarra, batería, teclado, etc.) grabar audio nítido, agregar nueva música a la pista existente sin alterar el tiempo actual y realizar la corrección de tono. Si usa iPhone o iPad puede utilizar la función Logic Remote para controlar ciertas funciones como Live Loops y Remix FX directamente desde su dispositivo con gestos multitáctiles.
+            p De Apple le permite implementar algunas de las prácticas de edición y producción de audio más exigentes. Puede utilizar sus funciones #[em Step Sequencer, Sampler y Quick Sampler] para crear ritmos de batería, patrones melódicos y transformar sonidos en instrumentos, todo en un santiamén.
+            p.mb-0 Además de eso, puede agregar efectos de estilo DJ, tocar cualquier instrumento (guitarra, batería, teclado, etc.) grabar audio nítido, agregar nueva música a la pista existente sin alterar el tiempo actual y realizar la corrección de tono. Si usa iPhone o iPad puede utilizar la función #[em Logic Remote] para controlar ciertas funciones como #[em Live Loops] y #[em Remix FX] directamente desde su dispositivo con gestos multitáctiles.
 
     .row.mb-4
       .col-auto
         h3.custom-H3 Optimización
 
     .squareTop
-      p Para optimizar el peso del archivo de audio que se va a subir a la Web será necesario utilizar un editor para reducir alguno o algunos de los siguientes parámetros:
+      p Para optimizar el peso del archivo de audio que se va a subir a la #[em web] será necesario utilizar un editor para reducir alguno o algunos de los siguientes parámetros:
 
     .row.justify-content-center
       .col-lg-7
@@ -507,7 +510,7 @@
 
           .row(numero="2" titulo="Resolución")
             .col
-              p.mb-0 Establecer resoluciones más pequeñas: 32-bits, 16-bits, 8-bits, 4-bits, etc.
+              p.mb-0 Establecer resoluciones más pequeñas: 32-#[em bits], 16-#[em bits], 8-#[em bits], 4-#[em bits], etc.
 
           .row(numero="3" titulo="Duración")
             .col
@@ -536,7 +539,7 @@
       .row.justify-content-center(titulo="Formato WAV")
         .col-lg-8.mb-4.mb-lg-0
           p Wave Form Audio File es un archivo que desarrolló originalmente Microsoft para guardar audio. Los archivos tienen extensión .WAV.
-          p Es ideal para guardar audios originales a partir de los cuales se puede comprimir y guardar en distintos tamaños de muestreo para publicar en la Web.
+          p Es ideal para guardar audios originales a partir de los cuales se puede comprimir y guardar en distintos tamaños de muestreo para publicar en la #[em web].
           p.mb-0 Es un formato de excelente calidad de audio; sin embargo, produce archivos de un peso enorme.
 
         .col-lg-4.col-10
@@ -551,7 +554,7 @@
           figure
             img(src="@/assets/curso/temas/t4/t4_37.png", alt="alt")
         .col-lg-8
-          p.mb-0 MPEG 1 Layer 3 fue creado por el Instituto Fraunhofer y por su extraordinario grado de compresión y alta calidad ha monopolizado el mundo del audio digital. Los archivos tienen extensión .mp3. Es ideal para publicar audios en la Web. Se puede escuchar desde la mayoría de reproductores. La transformación de WAV a MP3 o la publicación directa de una grabación en formato MP3 es un proceso fácil y al alcance de los principales editores de audio. Tiene un enorme nivel de compresión respecto al WAV. En igualdad del resto de condiciones reduciría el tamaño del archivo de un fragmento musical con un factor entre 1/10 y 1/12. Presentan una mínima pérdida de calidad.
+          p.mb-0 MPEG 1 Layer 3 fue creado por el Instituto Fraunhofer y por su extraordinario grado de compresión y alta calidad ha monopolizado el mundo del audio digital. Los archivos tienen extensión .mp3. Es ideal para publicar audios en la #[em web]. Se puede escuchar desde la mayoría de reproductores. La transformación de WAV a MP3 o la publicación directa de una grabación en formato MP3 es un proceso fácil y al alcance de los principales editores de audio. Tiene un enorme nivel de compresión respecto al WAV. En igualdad del resto de condiciones reduciría el tamaño del archivo de un fragmento musical con un factor entre 1/10 y 1/12. Presentan una mínima pérdida de calidad.
 
       .row.justify-content-center(titulo="Formato OGG")        
         .col-lg-8.mb-4.mb-lg-0
@@ -588,7 +591,7 @@
           img(src="@/assets/curso/temas/t4/t4_40.svg", alt="alt")
       .col-lg-8
         .squareTop.mb-4
-          p.mb-0 La narrativa transmedia es una técnica en la cual una historia se desarrolla o divide en diferentes plataformas para formar un relato coherente, es decir, podría entenderse como una historia contada en capítulos que se encuentran en diferentes formatos: libro, post, spot, película.
+          p.mb-0 La narrativa transmedia es una técnica en la cual una historia se desarrolla o divide en diferentes plataformas para formar un relato coherente, es decir, podría entenderse como una historia contada en capítulos que se encuentran en diferentes formatos: libro, #[em post], #[em spot], película.
         .row
           .col-auto
             figure
@@ -606,13 +609,13 @@
           .sm-numb(sm-numb-data="01")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_41.svg", alt="alt").img90.m-auto
-          p.text-center.mb-0 Historias interactivas
+          p.text-center.mb-0 Historias interactivas.
       .col-2
         .crd.bg--gray.brad_02.shadow.p-3.hg-100
           .sm-numb(sm-numb-data="02")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_42.svg", alt="alt").img90.m-auto
-          p.text-center.mb-0 Integración de tecnología como realidad virtual
+          p.text-center.mb-0 Integración de tecnología como realidad virtual.
       .col-2
         .crd.bg--gray.brad_02.shadow.p-3.hg-100 
           .sm-numb(sm-numb-data="03")
@@ -633,7 +636,7 @@
           p.text-center.mb-0 Historias inmersivas.
 
     .cajon.cjn--grayBlue.p-4.mb-5
-      p.mb-0 La creación de contenidos audiovisuales se ha venido transformando, con el crecimiento de las nuevas tecnologías, estas han tomado importancia e interés en el mundo y la manera de utilizarlas ha evolucionado rápidamente, a consecuencia de la transmedia storylling o confluencia de medios.
+      p.mb-0 La creación de contenidos audiovisuales se ha venido transformando, con el crecimiento de las nuevas tecnologías, estas han tomado importancia e interés en el mundo y la manera de utilizarlas ha evolucionado rápidamente, a consecuencia de la #[em transmedia storylling] o confluencia de medios.
 
 
     .row.justify-content-center.mb-5
@@ -645,7 +648,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
           .col
-            p.mb-0 De esta forma, cuando recrea una producción audiovisual transmedia se pretende que sea un rol de relato donde la historia se despliega por varios medios y medios de comunicación. Las redes sociales, la Internet y sitios web hacen parte de esta forma de producciones, ya que permiten la interacción y participación del público.
+            p.mb-0 De esta forma, cuando recrea una producción audiovisual transmedia se pretende que sea un rol de relato donde la historia se despliega por varios medios y medios de comunicación. Las redes sociales, la Internet y sitios #[em web] hacen parte de esta forma de producciones, ya que permiten la interacción y participación del público.
       .col-lg-4.col-8
         figure
           img(src="@/assets/curso/temas/t4/t4_46.svg", alt="alt")
@@ -707,7 +710,7 @@
         h3.custom-H3 #[em Pitchbook]
 
     .squareTop.mb-5
-      p Es un libro de ventas, es una presentación del marketing (diseño de información) creado por un banco de inversión o una empresa que detalla los principales atributos de la empresa, que luego es utilizado por la fuerza de ventas de la empresa para ayudar a vender productos y servicios y generar nuevos clientes. Los pitchbook son guías útiles para que la fuerza de ventas recuerde beneficios importantes y proporcione ayudas visuales cuando se presenten a los clientes.
+      p Es un libro de ventas, es una presentación del marketing (diseño de información) creado por un banco de inversión o una empresa que detalla los principales atributos de la empresa, que luego es utilizado por la fuerza de ventas de la empresa para ayudar a vender productos y servicios y generar nuevos clientes. Los #[em pitchbook] son guías útiles para que la fuerza de ventas recuerde beneficios importantes y proporcione ayudas visuales cuando se presenten a los clientes.
 
     h5.mb-4 Qué información debe llevar:
 
@@ -745,11 +748,11 @@
     .squareTop.mb-4
       p.mb-0 Cada diapositiva deberá tener un propósito y estar dirigida hacia un objetivo específico. Los inversionistas no podrán retener tanta información en una sola reunión; se debe asegurar de explicar el discurso del negocio de forma estratégica sin perder a la audiencia, manteniendo su enfoque en todo momento.
 
-    p.mb-5 El objetivo consiste en despertar el interés en su pitch, y no explicar demasiado cada aspecto, de esa manera ganarse esa segunda reunión.
+    p.mb-5 El objetivo consiste en despertar el interés en su #[em pitch], y no explicar demasiado cada aspecto, de esa manera ganarse esa segunda reunión.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        h5.mb-5 Aquí, se tiene una descripción general de la información que debe contener su pitchbook:
+        h5.mb-5 Aquí, se tiene una descripción general de la información que debe contener su #[em pitchbook:]
 
         ul.fa-ul
           li
@@ -812,7 +815,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col
-            p.mb-0 Integrar la narrativa transmedia junto con la estrategia storytelling permite aportar el valor que se quiere transmitir desde el principio. Si encamina la historia con sus objetivos bien marcados mediante storytelling, después recibirá un  feedback de los clientes mediante la narrativa transmedia.
+            p.mb-0 Integrar la narrativa transmedia junto con la estrategia #[em storytelling] permite aportar el valor que se quiere transmitir desde el principio. Si encamina la historia con sus objetivos bien marcados mediante #[em storytelling], después recibirá un  #[em feedback] de los clientes mediante la narrativa transmedia.
 
     separador
 
@@ -879,7 +882,7 @@
             .cont
               .numb(data-number="01")
               h4 El diseño se basa en el entendimiento explícito de los usuarios, tareas y ambientes
-              p.mb-0 La razón principal del fracaso de un sistema es porque no se entendieron adecuadamente las necesidades de los usuarios. Cuando se diseñan productos o servicios se debe considerar a las personas que van a usar el producto, pero también a los stakeholders (los interesados). 
+              p.mb-0 La razón principal del fracaso de un sistema es porque no se entendieron adecuadamente las necesidades de los usuarios. Cuando se diseñan productos o servicios se debe considerar a las personas que van a usar el producto, pero también a los #[em stakeholders] (los interesados). 
           .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/t4/t4_54.svg', alt='').img350.m-auto
@@ -919,7 +922,7 @@
             .cont
               .numb(data-number="05")
               h4 El diseño contempla la experiencia completa del usuario
-              p La experiencia de usuario es la consecuencia de la presentación, funcionalidad y rendimiento del sistema, así como la respuesta, asistencia y capacidades del sistema, tanto en hardware como en software. También es la consecuencia de las experiencias pasadas del usuario, sus actitudes, habilidades, hábitos y personalidad; hay una idea equivocada de que usabilidad se refiere únicamente a hacer productos fáciles de usar. 
+              p La experiencia de usuario es la consecuencia de la presentación, funcionalidad y rendimiento del sistema, así como la respuesta, asistencia y capacidades del sistema, tanto en hardware como en #[em software]. También es la consecuencia de las experiencias pasadas del usuario, sus actitudes, habilidades, hábitos y personalidad; hay una idea equivocada de que usabilidad se refiere únicamente a hacer productos fáciles de usar. 
               p.mb-0 Al diseñar sistemas críticos y que implican seguridad, a veces es más importante asegurar la efectividad y eficiencia del sistema que satisfacer las preferencias del usuario. 
           .col-lg-3.col-6
             figure
@@ -947,7 +950,7 @@
             img(src="@/assets/curso/temas/t4/t4_60.svg", alt="alt")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p El diseño de interfaces de usuario se basa en el diseño de computadoras, aplicaciones, máquinas, dispositivos de comunicación móvil, aplicaciones de software y sitios web enfocados en la experiencia de usuario y la interacción. Normalmente es una actividad multidisciplinar que involucra a varias ramas del diseño y su conocimiento como el diseño gráfico, industrial, web, de software y la ergonomía; y está implicado en un amplio rango de proyectos, desde sistemas para computadoras, vehículos y hasta aviones comerciales.
+            p El diseño de interfaces de usuario se basa en el diseño de computadoras, aplicaciones, máquinas, dispositivos de comunicación móvil, aplicaciones de #[em software] y sitios #[em web] enfocados en la experiencia de usuario y la interacción. Normalmente es una actividad multidisciplinar que involucra a varias ramas del diseño y su conocimiento como el diseño gráfico, industrial, #[em web], de #[em software] y la ergonomía; y está implicado en un amplio rango de proyectos, desde sistemas para computadoras, vehículos y hasta aviones comerciales.
 
     .container.mb-5
       .bg_paleBlue
