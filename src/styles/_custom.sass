@@ -106,7 +106,7 @@
     top: -1%
     left: -1%
     width: 40%
-    height: 30%
+    height: 50%
     background-color: #F8F8F8 
 
 .dot-left 
@@ -162,6 +162,8 @@
     color: #D7DADD
     font-weight: 800
 
+.bg--darkBlue
+  background-color: #12263F
 .bg--paleBlue
   background-color: #F3F9FF
 .bg--paleYellow
@@ -172,11 +174,20 @@
   background-color: #F6F6F6
 .bg--orange
   background-color: $color-acento-botones
+.bg_grad_gris
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(222,222,222,1) 100%)
 
 .brad_01
   border-radius: 7px
 .brad_02
   border-radius: 15px
+.brad_top
+  border-top-left-radius: 15px
+  border-top-right-radius: 15px
+.brad_bottom
+  border-bottom-left-radius: 15px
+  border-bottom-right-radius: 15px
+
 
 .shadow
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
@@ -359,6 +370,17 @@
 .tabs-b__tab__icon
   margin-bottom: 7px
 
+.tabs-c__tab--active
+  font-weight: 700
+
+// Pasos ---------------------------------------
+.pasos-a__linea__esquina__linea, .hor-line
+  border-color: #FB8C00 !important
+
+.pasos-a.color-acento-contenido .pasos-a__numero::after
+  border-color: #FB8C00 !important
+
+
 // Tabs icon ---------------------------------------
 .cstm_border
   border: solid 4px #12263F !important
@@ -403,4 +425,25 @@
 .banner-interno__titulo__icono i
   color: $color-sistema-texto !important
 
+// Tablas ---------------------------------------
+.cstmTable  
+  table     
+    thead
+    tbody
+      tr
+        background-color: #E8E8E8
+
+  table, th, td    
+    border: 1px solid rgb(46,46,46) !important
+
+// slider ---------------------------------------
+
+@media (max-width: 768px)    
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 35px
+    height: 35px
+  .slyder-a__bullets__item
+    width: 10px
+    height: 10px
+    margin: 0 5px
 

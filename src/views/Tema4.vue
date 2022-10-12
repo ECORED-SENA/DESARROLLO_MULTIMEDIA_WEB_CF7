@@ -7,7 +7,7 @@
         span 4
       h1 Elementos gráficos del proyecto multimedia
 
-    .bg_img_03
+    .bg_img_03(data-aos="zoom-in").mb-5 
       .bloque-texto-a.cstm--color_01.p-4.p-md-5.mb-5 
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0
@@ -17,11 +17,13 @@
             .bloque-texto-a__texto.p-4
               p #[strong La gráfica digital es esa identidad visual que se desarrolla directamente en ambientes virtuales, ahora se verá en detalle en qué consiste y cuáles son sus características.]
 
-      #t_4_1.titulo-segundo.color-acento-botones 
+      separador
+
+      #t_4_1.titulo-segundo.color-acento-botones(data-aos="fade-right")  
         h2 4.1 Gráfica digital
 
       .row.justify-content-center.mb-5
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left") 
           .squareTop.mb-4
             p.mb-0 Analizando lo que es la gráfica digital se va a diferenciar primero que todo, qué es el diseño gráfico y la gráfica digital. El diseño gráfico en esencia hace referencia a una serie de funciones y técnicas implementadas en la creación de piezas gráficas, dirigidas a los medios tradicionales, como por ejemplo, a medios impresos como catálogos, folletos, revistas, afiches, vallas publicitarias, etc.
           .row
@@ -31,19 +33,19 @@
             .col.mb-4.mb-lg-0
               p.mb-0 Mediante un proceso estratégico y creativo se crean campañas publicitarias con el fin de dar a conocer la identidad de una empresa o presentar un producto o servicio. La gráfica digital hace parte de estos procesos, pero la diferencia es que no va dirigida a los medios tradicionales, si no que va dirigida a los medios digitales como Internet, sitios #[em web], redes sociales, videojuegos, etc.
           
-        .col-lg-4.col-8
+        .col-lg-4.col-8(data-aos="zoom-in") 
           figure
             img(src="@/assets/curso/temas/t4/t4_02.svg", alt="alt")
 
-        p.mt-4.mb-0 Hoy en día la tecnología ofrece muchas opciones para desarrollar imágenes digitales, ya sean en formatos BMP, GIF, JPG, TIF y PNG. También se pueden desarrollar documentos, presentaciones o hasta un libro en formatos digitales como archivos PDF.
+        p(data-aos="fade-left").mt-4.mb-0 Hoy en día la tecnología ofrece muchas opciones para desarrollar imágenes digitales, ya sean en formatos BMP, GIF, JPG, TIF y PNG. También se pueden desarrollar documentos, presentaciones o hasta un libro en formatos digitales como archivos PDF.
 
-    h5.mb-5 A continuación, las principales características:
+    h5(data-aos="fade-right").mb-5 A continuación, las principales características:
 
     .row.justify-content-center
-      .col-lg-5.col-8.mb-4.mb-lg-0
+      .col-lg-5.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_03.svg", alt="alt")
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right")
         LineaTiempoD.color-acento-botones.mb-5
           .row(numero="1" titulo="Inmediatez")
             .col
@@ -69,40 +71,40 @@
 
     separador
 
-    #t_4_2.titulo-segundo.color-acento-botones 
+    #t_4_2.titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 4.2 video
     
-    figure
+    figure(data-aos="zoom-in")
       img(src="@/assets/curso/temas/t4/t4_04.png", alt="alt")
-    .row.justify-content-center.mb-5.mb-lg-0
+    .row.justify-content-center.mb-5.mb-lg-0(data-aos="fade-bottom")
       .col-lg-10
         .cstmTitleCrd
           p.mb-0 Se define video a la acción de capturar, grabar una imagen o sonido, en un medio magnético o digital, que posteriormente se puede reproducir o verse en una pantalla digital. Actualmente, existen varios formatos de captura, los cuales se definirán a continuación, entendiendo cada formato de video, con el fin de que las personas los puedan visualizar de la mejor manera y elegir el formato de archivo de video adecuado.
 
-    .bg_img_03
+    .bg_img_03(data-aos="fade-right")
       .row.mb-4
         .col-auto
           h3.custom-H3 Formatos de salida
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8.mb-4.mb-lg-0
+        .col-lg-8.mb-4.mb-lg-0(data-aos="fade-left")
           p Así como los textos y las imágenes, los videos también tienen sus extensiones y formatos digitales.
           .squareTop
             p.mb-4 En la realización de videos por lo general se configuran las cámaras en resoluciones de alta calidad, a medida que se realizan capturas aumenta el tamaño de un archivo de video, sumado a esto, los videos pasan por un proceso de edición en el que se agregan o importan elementos digitales como imágenes, menús, textos, efectos sonoros y todo lo que se requiera para su finalización. Esto hace que los videos aumenten de tamaño.
           .cajon.cjn--grayBlue.p-4
             p.mb-0 Siempre es importante tener claro el objetivo de lo que se busca hacer, determinar cuál es el fin del video y su publicación, así se tendrá una idea más clara acerca del formato a utilizar.
-        .col-lg-4.col-8
+        .col-lg-4.col-8(data-aos="zoom-in")
           figure
             img(src="@/assets/curso/temas/t4/t4_05.svg", alt="alt")
 
-      .row.mb-4
+      .row.align-items-center.mb-4(data-aos="zoom-in")
         .col-auto.d-none.d-lg-flex
           figure
             img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
         .col.mb-4.mb-lg-0
           p.mb-0 Los formatos de video se refieren a su codificación, ya que en el video digital al igual que pasa con un programa de computador, cualquier archivo está escrito en un código determinado. A continuación, se observará los formatos de video digital más conocidos en el momento, cuál es su origen y cuáles son sus presentaciones:
 
-    .slyderBg_01.py-5.p-4.mb-5
+    .slyderBg_01.py-5.p-4.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-2.mb-lg-0
@@ -161,16 +163,16 @@
             figure
               img(src='@/assets/curso/temas/t4/t4_12.svg', alt='').img120.m-auto
 
-    .bg_img_03
+    .bg_img_03(data-aos="fade-right")
       .row.mb-4
         .col-auto
           h3.custom-H3 Características del video
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/t4/t4_13.svg', alt='')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         .row.mb-4
           .col-auto.d-none.d-lg-flex
             figure
@@ -181,35 +183,35 @@
           p.mb-0 En la actualidad un formato de video digital está constituido por estas 3 características:
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.bg--paleBlue.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_14.svg", alt="alt").img75
           p.mb-0 El ancho y el alto (el tamaño de imagen).
 
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.bg--paleYellow.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_15.svg", alt="alt").img75
           p.mb-0 La cantidad de imágenes por segundo que tiene el formato (#[em frame rate]). 
 
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.bg--paleGray.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_16.svg", alt="alt").img75
           p.mb-0 El aspecto de pixel (P.A.R.). 
 
     .row.justify-content-center.align-items-center.mb-5 
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .squareTop.mb-4
           p.mb-0 Además, la televisión tiene compatibilidad, es decir, que lo que grabe se tiene que poder ver en una televisión antigua. Esto provoca que a medida que van apareciendo nuevos formatos de video se tenga que mantener esa compatibilidad y para ello, son necesarias las nuevas tecnologías. Todo esto provoca que en la actualidad se tenga un gran conjunto de formatos de video.
         .cajon.cjn--grayBlue.p-4.mb-0
           p.mb-0 El tamaño de los formatos de video digital está medido en píxeles y se representa con las coordenadas x, y, que se corresponden con el ancho y el alto. Con el tamaño de imagen se puede saber si estamos ante una resolución estándar, alta definición, formatos de cine, en ultra alta definición, etc.
-      .col-lg-4.col-10
+      .col-lg-4.col-10(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/t4/t4_17.svg', alt='')
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in")
       .col-lg-10
         .row.justify-content-center.align-items-lg-center.mb-5
           .col-auto.avtr-txt
@@ -219,10 +221,10 @@
             p.mb-0 #[strong Se debe tener en cuenta el tamaño de imagen a la hora de subir un video a YouTube, cuando se va a proyectar un video en un proyector, si se va a proyectar en una sala de cine, etc., para poder cumplir con los requisitos de tamaño de imagen del dispositivo donde se vaya a proyectar. A su vez, se debe tener en cuenta lo siguiente:]
 
     .row.justify-content-center.mb-5
-      .col-lg-5.col-8.mb-4.mb-lg-0
+      .col-lg-5.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_18.svg", alt="alt")
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right")
         LineaTiempoD.color-acento-botones.mb-5
           .row(numero="1" titulo="<em>Frame rate</em>")
             .col
@@ -249,7 +251,7 @@
               p.mb-0 Aquí es importante realizar seguimiento en tiempo real para analizar el número de visualizaciones que tiene el video, esto ayudará a determinar qué tanto interés ha despertado en las personas. Este análisis también sirve para mirar si el video tiene visualizaciones más pronto. Se recomienda observar visualizaciones en horarios diferentes.
 
     .row.justify-content-center.mb-5      
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         LineaTiempoD.color-acento-botones.mb-5
           .row(numero="5" titulo="Tiempo de reproducción")
             .col
@@ -267,18 +269,18 @@
             .col
               p.mb-0 Las redes sociales y aplicaciones tienen una importancia, el rendimiento de los videos. Analizar quién está compartiendo el contenido y cómo lo está haciendo. Hay que hacer un seguimiento de los recursos compartidos que ha recibido cada video a lo largo del tiempo en las distintas plataformas sociales. Los comentarios son otro punto clave. Controlar quién está comentando y lo que dicen puede ayudar a aumentar la participación del video u otro contenido. Es necesario ver la frecuencia y las fechas de los comentarios, así como conocer la cantidad total de los mismos en cada video. 
 
-      .col-lg-5.col-8
+      .col-lg-5.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_19.svg", alt="alt")
 
-    .bg_img_03
+    .bg_img_03(data-aos="fade-right")
       .row.mb-4
         .col-auto
           h3.custom-H3 Herramientas de seguimiento
 
-    p Aquí se describen todas las métricas que se han comentado anteriormente y que se pueden monitorizar a través de distintas herramientas, para ayudar a su análisis y saber si se acercan o alejan de los objetivos planteados. Estas son algunas de las herramientas:
+    p(data-aos="fade-left") Aquí se describen todas las métricas que se han comentado anteriormente y que se pueden monitorizar a través de distintas herramientas, para ayudar a su análisis y saber si se acercan o alejan de los objetivos planteados. Estas son algunas de las herramientas:
 
-    .slyderBg_01.pt-5.p-4(data-aos="fade").mb-5
+    .slyderBg_01.pt-5.p-4(data-aos="zoom-in").mb-5
       SlyderA(tipo="b")
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -314,14 +316,14 @@
 
     separador
 
-    #t_4_3.titulo-segundo.color-acento-botones 
+    #t_4_3.titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 4.3 sonido
     
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_24.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p Cuando se habla de sonido se refiere a la propagación de las ondas mecánicas originadas por la vibración de un cuerpo a través de un fluido o un medio elástico. Dichas ondas pueden o no ser percibidas por los seres vivos, dependiendo de su frecuencia.
         .row
           .col-auto
@@ -330,14 +332,14 @@
           .col
             p.mb-0 #[strong ¿Qué consigue el sonido en la producción audiovisual?]
 
-    .row.justify-content-center
-      .col-lg-4.col-8.mb-4.mb-lg-0
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-md-10.col-12.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.bg--paleBlue.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_25.svg", alt="alt").img75
           p.mb-0 #[strong Crear un ambiente:] es importante enmarcar las imágenes dentro de un ambiente adecuado en el que encajen y que, por supuesto, persuadan a continuar disfrutando del producto creado. El medio persuade a la interacción y es importante que este sea perfecto, que se encuentre equilibrado en todos sus elementos, incluido el sonido.
 
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-md-10.col-12.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.bg--paleYellow.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_26.svg", alt="alt").img75
@@ -345,24 +347,24 @@
 
           p.mb-0 La diferencia de volumen, la incorporación de melodías diferentes e incluso el cambio de tono de la escena servirán para captar la atención del espectador.
 
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-md-10.col-12.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.bg--paleGray.brad_01.hg-100.p-4
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_27.svg", alt="alt").img75
           p.mb-0 #[strong Crear sensaciones:] es importante que, para ser recordados, se creen diferentes sensaciones, pero no pueden ser sensaciones aleatorias, es necesario estudiar al público y definir unos objetivos claros y partiendo de eso, crear melodías e incluir sonidos para hacer que persuada la sensación buscada.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 Edición
 
-    figure
+    figure(data-aos="zoom-in")
       img(src="@/assets/curso/temas/t4/t4_28.png", alt="alt")
-    .row.justify-content-center.mb-5.mb-lg-0
+    .row.justify-content-center.mb-5.mb-lg-0(data-aos="fade")
       .col-lg-10
         .cstmTitleCrd
           p.mb-0 En la edición audiovisual hoy en día se cuenta con un sin número de programas diseñados para la edición de audio, con herramientas que claramente ayudan a que un producto sea óptimo; la tecnología brinda muchas opciones. A continuación, se describen algunos de los programas más comunes:
 
-    TabsC.color-acento-botones.mb-5
+    TabsC.color-acento-botones.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Audicity")
         .row.justify-content-center.align-items-center 
           .col-lg-4.col-8.order-2.order-lg-1
@@ -494,15 +496,15 @@
             p De Apple le permite implementar algunas de las prácticas de edición y producción de audio más exigentes. Puede utilizar sus funciones #[em Step Sequencer, Sampler y Quick Sampler] para crear ritmos de batería, patrones melódicos y transformar sonidos en instrumentos, todo en un santiamén.
             p.mb-0 Además de eso, puede agregar efectos de estilo DJ, tocar cualquier instrumento (guitarra, batería, teclado, etc.) grabar audio nítido, agregar nueva música a la pista existente sin alterar el tiempo actual y realizar la corrección de tono. Si usa iPhone o iPad puede utilizar la función #[em Logic Remote] para controlar ciertas funciones como #[em Live Loops] y #[em Remix FX] directamente desde su dispositivo con gestos multitáctiles.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 Optimización
 
-    .squareTop
+    .squareTop(data-aos="zoom-in").mb-4
       p Para optimizar el peso del archivo de audio que se va a subir a la #[em web] será necesario utilizar un editor para reducir alguno o algunos de los siguientes parámetros:
 
-    .row.justify-content-center
-      .col-lg-7
+    .row.justify-content-center.mb-5
+      .col-lg-7(data-aos="fade-right")
         LineaTiempoD.color-acento-botones.mb-5
           .row(numero="1" titulo="Tasa de muestreo")
             .col
@@ -524,18 +526,18 @@
             .col
               p.mb-0 Es preferible utilizar el formato MP3 u OGG en lugar del WAV por su potente factor de compresión y su aceptable calidad de audio. 
 
-      .col-lg-5
+      .col-lg-5.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_35.svg", alt="alt")
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 Formato de salida
 
-    .squareTop.mb-4
+    .squareTop.mb-4(data-aos="fade-right")
       p.mb-0 Identificar en qué formatos finales se archivan los audios permitirá saber cuál es el que mejor se adapta a las necesidades, conozca los más comunes:
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris").mb-5
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="zoom-in").mb-5
       .row.justify-content-center(titulo="Formato WAV")
         .col-lg-8.mb-4.mb-lg-0
           p Wave Form Audio File es un archivo que desarrolló originalmente Microsoft para guardar audio. Los archivos tienen extensión .WAV.
@@ -582,14 +584,14 @@
 
     separador    
 
-    #t_4_4.titulo-segundo.color-acento-botones 
+    #t_4_4.titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 4.4 Transmedia
 
     .row.justify-content-center.mb-4
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_40.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         .squareTop.mb-4
           p.mb-0 La narrativa transmedia es una técnica en la cual una historia se desarrolla o divide en diferentes plataformas para formar un relato coherente, es decir, podría entenderse como una historia contada en capítulos que se encuentran en diferentes formatos: libro, #[em post], #[em spot], película.
         .row
@@ -599,48 +601,48 @@
           .col
             p.mb-0 El término transmedia no hace referencia al empleo de diversos medios como canales de difusión; se trata de hacer crecer y expandir una historia, sumando las piezas únicas de la narrativa expresadas en cada medio. Es importante entender que no se trata de crear una historia y difundirla por varios medios para su difusión, se trata es de involucrar a la audiencia para que logre un papel protagónico en su proceso.
 
-    p El desarrollo de la historia implica la creación de contenido de acuerdo con los canales donde el consumidor dará seguimiento. El punto clave es que la historia y el contenido se relacione entre sí para otorgar sincronía a la narrativa presentada. 
+    p(data-aos="fade-right") El desarrollo de la historia implica la creación de contenido de acuerdo con los canales donde el consumidor dará seguimiento. El punto clave es que la historia y el contenido se relacione entre sí para otorgar sincronía a la narrativa presentada. 
 
-    h5.mb-5 Algunas tendencias en este tipo de narrativa son las siguientes:
+    h5(data-aos="fade-right").mb-5 Algunas tendencias en este tipo de narrativa son las siguientes:
 
     .row.justify-content-center.mb-5
-      .col-2
+      .col-xl-2.col-lg-4.col-8.mb-4.mb-xl-0(data-aos="flip-left")
         .crd.bg--gray.brad_02.shadow.p-3.hg-100
           .sm-numb(sm-numb-data="01")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_41.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 Historias interactivas.
-      .col-2
+      .col-xl-2.col-lg-4.col-8.mb-4.mb-xl-0(data-aos="flip-left")
         .crd.bg--gray.brad_02.shadow.p-3.hg-100
           .sm-numb(sm-numb-data="02")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_42.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 Integración de tecnología como realidad virtual.
-      .col-2
+      .col-xl-2.col-lg-4.col-8.mb-4.mb-xl-0(data-aos="flip-left")
         .crd.bg--gray.brad_02.shadow.p-3.hg-100 
           .sm-numb(sm-numb-data="03")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_43.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 Narración hiperrealista.
-      .col-2
+      .col-xl-2.col-lg-4.col-8.mb-4.mb-xl-0(data-aos="flip-left")
         .crd.bg--gray.brad_02.shadow.p-3.hg-100
           .sm-numb(sm-numb-data="04")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_44.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 Historias conectadas.
-      .col-2
+      .col-xl-2.col-lg-4.col-8.mb-4.mb-xl-0(data-aos="flip-left")
         .crd.bg--gray.brad_02.shadow.p-3.hg-100
           .sm-numb(sm-numb-data="05")
           figure.mb-3
             img(src="@/assets/curso/temas/t4/t4_45.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 Historias inmersivas.
 
-    .cajon.cjn--grayBlue.p-4.mb-5
+    .cajon.cjn--grayBlue.p-4.mb-5(data-aos="zoom-in")
       p.mb-0 La creación de contenidos audiovisuales se ha venido transformando, con el crecimiento de las nuevas tecnologías, estas han tomado importancia e interés en el mundo y la manera de utilizarlas ha evolucionado rápidamente, a consecuencia de la #[em transmedia storylling] o confluencia de medios.
 
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .squareTop
           p El consumo de información de los espectadores en consecuencia ha cambiado de quién produce a quién consume, hacia una cultura participativa. Esto en gran parte a la gran demanda de los dispositivos móviles y todas las funciones con las que estos cuentan y la Internet. 
         .row
@@ -649,11 +651,11 @@
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
           .col
             p.mb-0 De esta forma, cuando recrea una producción audiovisual transmedia se pretende que sea un rol de relato donde la historia se despliega por varios medios y medios de comunicación. Las redes sociales, la Internet y sitios #[em web] hacen parte de esta forma de producciones, ya que permiten la interacción y participación del público.
-      .col-lg-4.col-8
+      .col-lg-4.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_46.svg", alt="alt")
 
-    .tarjeta.color-secundario.p-3.mb-5
+    .tarjeta.color-secundario.p-3.mb-5(data-aos="zoom-in")
       .row.justify-content-around.align-items-center
         .col-auto
           img(src="@/assets/curso/temas/recursos/cta_02.svg").img90
@@ -665,19 +667,19 @@
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=5IFnSp2ilcQ&t=33s" target="_blank")
                 span.clr--base Ver video
-                i.clr--base.fas.fa-file-download
+                i.clr--base.fas.fa-link
 
-    h5.mb-5 Ahora, se puede ver algunos elementos que forman parte e impulsarán el desarrollo del proyecto transmedia:
+    h5(data-aos="fade-left").mb-5 Ahora, se puede ver algunos elementos que forman parte e impulsarán el desarrollo del proyecto transmedia:
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 Multiplataforma
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_47.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .squareTop.mb-4
           p.mb-0 Para crear una historia transmedia se necesitan como mínimo tres medios diferentes donde distribuir el contenido, que doten al proyecto de más variedad y creatividad.
         .row
@@ -687,12 +689,12 @@
           .col
             p.mb-0 El contenido es original y único para cada plataforma. El relato que se cuenta debe ser nuevo, original y específico para cada plataforma. Cada medio tiene sus propias características y hay que saber identificar qué funciona en cada uno de ellos. Así, cada plataforma debe ofrecer a los usuarios nuevos elementos de la historia, mejorar la acción o introducir nuevos personajes. 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 #[em Fandoms]
 
     .row.justify-content-center.mb-5      
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .squareTop.mb-4
           p.mb-0 Se refiere en un sentido amplio a toda la comunidad de fans en general  y a  todo tipo de creaciones que estos producen por fuera del canon o relato oficial, y que vienen a enriquecer el universo transmedia.
         .row
@@ -701,20 +703,20 @@
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
           .col
             p.mb-0 Un ejemplo es la franquicia Marvel que es uno de los fenómenos transmedia de mayor éxito y relevancia en la industria del entretenimiento. Cómics, series, videojuegos y películas han construido un mundo de ficción que ha incentivado la consolidación de un fandom con una actividad frecuente en las comunidades digitales.
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_48.svg", alt="alt")
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 #[em Pitchbook]
 
-    .squareTop.mb-5
+    .squareTop.mb-5(data-aos="fade-left")
       p Es un libro de ventas, es una presentación del marketing (diseño de información) creado por un banco de inversión o una empresa que detalla los principales atributos de la empresa, que luego es utilizado por la fuerza de ventas de la empresa para ayudar a vender productos y servicios y generar nuevos clientes. Los #[em pitchbook] son guías útiles para que la fuerza de ventas recuerde beneficios importantes y proporcione ayudas visuales cuando se presenten a los clientes.
 
-    h5.mb-4 Qué información debe llevar:
+    h5(data-aos="fade-left").mb-4 Qué información debe llevar:
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in")
       .col-auto.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
@@ -722,10 +724,10 @@
         p.mb-0 El contenido es original y único para cada plataforma. El relato que se cuenta debe ser nuevo, original y específico para cada plataforma. Cada medio tiene sus propias características y hay que saber identificar qué funciona en cada uno de ellos. Así, cada plataforma debe ofrecer a los usuarios nuevos elementos de la historia, mejorar la acción o introducir nuevos personajes.
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_49.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         ul.fa-ul
           li
             i.fa-li.fas.fa-check-circle.clr--mint
@@ -745,13 +747,13 @@
         .cajon.cjn--grayBlue.p-4
           p.mb-0 Es recomendable no sobrepasar 10 diapositivas, se puede realizar en PowerPoint, depende de cómo se quiere contar la historia única del negocio.
 
-    .squareTop.mb-4
+    .squareTop.mb-4(data-aos="zoom-in")
       p.mb-0 Cada diapositiva deberá tener un propósito y estar dirigida hacia un objetivo específico. Los inversionistas no podrán retener tanta información en una sola reunión; se debe asegurar de explicar el discurso del negocio de forma estratégica sin perder a la audiencia, manteniendo su enfoque en todo momento.
 
-    p.mb-5 El objetivo consiste en despertar el interés en su #[em pitch], y no explicar demasiado cada aspecto, de esa manera ganarse esa segunda reunión.
+    p(data-aos="fade-left").mb-5 El objetivo consiste en despertar el interés en su #[em pitch], y no explicar demasiado cada aspecto, de esa manera ganarse esa segunda reunión.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         h5.mb-5 Aquí, se tiene una descripción general de la información que debe contener su #[em pitchbook:]
 
         ul.fa-ul
@@ -795,19 +797,19 @@
             i.fa-li.fas.fa-check-circle.clr--mint
             | #[strong Diapositiva 10:] cómo se planea utilizar los fondos para el negocio.
 
-      .col-lg-5.col-8
+      .col-lg-5.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_50.svg", alt="alt")
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 #[em Storytelling]
 
     .row.justify-content-center
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_51.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .squareTop.mb-4
           p.mb-0 Es una estrategia que consiste en crear una historia con el fin de informar, motivar, conocer opiniones, vender. Esta historia no debe confundirse con hablar sobre qué hace su marca o qué ofrece. Cuando usa esta técnica debe aportar historias de valor, que sean interesantes para los usuarios y que les aporte algo más que contenido corporativo. Con esta estrategia se persigue crear emociones y un vínculo entre usuario-empresa, a través de una narración que perdurará en su memoria.
         .row
@@ -819,27 +821,27 @@
 
     separador
 
-    #t_4_5.titulo-segundo.color-acento-botones 
+    #t_4_5.titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 4.5 Realidad aumentada
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-left")
         .squareTop.mb-4
           p.mb-0 Es un recurso tecnológico especializado que ofrece experiencias interactivas al usuario a partir de una combinación de la dimensión virtual y la dimensión física, las cuales contienen gráficos sobre una vista del mundo real y agregan la información virtual a la realidad que ve el usuario. Estos dos elementos se combinan en tiempo real por medio de las diversas tecnologías, las cuales permiten disponer de una visión diferente de la realidad, es decir, insertar objetos virtuales a contextos físicos, usando la interfaz del ambiente real con el apoyo de la tecnología. 
         .cajon.cjn--grayBlue.p-4
           p.mb-0 Para acceder a esta tecnología los usuarios lo pueden realizar a través de dispositivos digitales, los cuales han sido diseñados en tres dimensiones para tal fin, por ejemplo, teléfonos móviles o gafas, combina imagen real y virtual. La RA sucede en tiempo real y se proyecta como una imagen en 3D, a nivel mundial los usuarios están generando conciencia sobre la importancia que la tecnología representa en la vida de las personas, por tal motivo surgen nuevas alternativas dentro de los procesos de transformación digital, con la finalidad de alcanzar distintos objetivos, en diferentes entornos y contextos de desarrollo personal.
-      .col-lg-4.col-8
+      .col-lg-4.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_52.svg", alt="alt")
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in")
       .col-auto.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
       .col
         p.mb-0 A continuación, descargue el siguiente contenido con el que podrá profundizar en este importante tema y conocer las características, ventajas y aplicaciones de la RA en la vida diaria:
 
-    .tarjeta.color-secundario.p-3.mb-4
+    .tarjeta.color-secundario.p-3.mb-4(data-aos="zoom-in")
       .row.justify-content-around.align-items-center
         .col-auto
           img(src="@/assets/curso/temas/recursos/cta_01.svg").img90
@@ -855,14 +857,14 @@
 
     separador
 
-    #t_4_6.titulo-segundo.color-acento-botones 
+    #t_4_6.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.6 Diseño Centrado en el Humano (HCD)
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_53.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .squareTop.mb-4
           p.mb-0 Es un enfoque en diseño de sistemas interactivos, que tiene como objetivo hacer los sistemas usables y útiles, al enfocarse en los usuarios, sus necesidades y requerimientos, a la vez que se aplican técnicas de ergonomía y conocimientos de usabilidad. 
         .row.mb-4
@@ -940,10 +942,10 @@
 
     separador
 
-    #t_4_7.titulo-segundo.color-acento-botones 
+    #t_4_7.titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 4.7 Diseño de Interfaz de Usuario Intangible (TUI)
 
-    .bloque-texto-a.cstm--color_01.p-4.p-md-5.mb-5 
+    .bloque-texto-a.cstm--color_01.p-4.p-md-5.mb-5(data-aos="zoom-in")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
@@ -954,32 +956,32 @@
 
     .container.mb-5
       .bg_paleBlue
-        .row.justify-content-center
+        .row.justify-content-center(data-aos="zoom-in")
           .col-lg-10
             figure.mb-0
               img(src="@/assets/curso/temas/t4/t4_61.png", alt="alt")
           
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-auto
         h3.custom-H3 Objetivos de la interfaz de usuario
 
-    .squareTop.mb-5
+    .squareTop.mb-5(data-aos="fade-left")
       p.mb-0 Es mantener la interacción con ellos de una forma más atractiva, centrando el diseño en ellos. Por ello, ramas como el Diseño gráfico y el Diseño industrial basan sus conocimientos en que aprendan lo más rápido posible el funcionamiento de los desarrollos. Las herramientas principales que utilizan son recursos como la gráfica, los pictogramas, los estereotipos y la simbología, sin afectar el funcionamiento técnico eficiente.
 
-    h5.mb-5 Los 6 principios para el diseño de la interfaz de usuario son:
+    h5(data-aos="fade-left").mb-5 Los 6 principios para el diseño de la interfaz de usuario son:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-9
         figure
             img(src="@/assets/curso/temas/t4/t4_62.svg", alt="alt")
 
-    h5.mb-5 Existen principios relevantes para el diseño e implementación de IU, ya sea para las IU gráficas: 
+    h5(data-aos="fade-right").mb-5 Existen principios relevantes para el diseño e implementación de IU, ya sea para las IU gráficas: 
 
     .row.justify-content-center
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_63.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         LineaTiempoD.color-acento-botones.mb-5
           .row(numero="1" titulo="Familiaridad del usuario")
             .col

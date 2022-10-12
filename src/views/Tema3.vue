@@ -7,21 +7,23 @@
         span 3
       h1 Medios de captura y formatos de salida
 
-    figure
+    figure(data-aos="zoom-in") 
       img(src="@/assets/curso/temas/t3/t3_01.png", alt="alt")
-    .row.justify-content-center.mb-5.mb-lg-0
+    .row.justify-content-center.mb-5.mb-lg-0(data-aos="fade") 
       .col-lg-10
         .cstmTitleCrd
           p.mb-0 En los desarrollos multimedia, en algunos momentos se necesitará capturar imágenes o secciones para enriquecer los contenidos y a su vez, también es prioritario conocer los formatos en los que se podrían obtener para su correcto uso, en esta sección tendrá las herramientas para hacerlo posible:
 
-    #t_3_1.titulo-segundo.color-acento-botones 
+    separador
+
+    #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 3.1 Herramientas de captura de imagen
 
     .row.justify-content-center
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t3/t3_02.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left") 
         .row.mb-4
           .col-auto.d-none.d-lg-flex
             figure
@@ -45,12 +47,12 @@
 
     separador
 
-    #t_3_2.titulo-segundo.color-acento-botones 
+    #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")  
       h2 3.2 Herramientas de captura de imagen en movimiento
 
     .bg_img_04
       .row.justify-content-center
-        .col-lg-8.order-2.order-lg-1
+        .col-lg-8.order-2.order-lg-1(data-aos="fade-left") 
           .squareTop.mb-4
             p.mb-0 Si bien las herramientas de captura de imagen brindan la capacidad de grabar video, hay que tener claro o diferenciar, entre la opción de grabar lo que se está visualizando en la pantalla y lo que es capturar imágenes en movimiento. Para ello, se van a definir algunas herramientas y tipos de captura de movimiento. 
           .row.mb-4
@@ -59,15 +61,15 @@
                 img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
             .col
               p.mb-0 La captura de imágenes en movimiento en términos generales es el proceso de obtener los movimientos de una persona o animal, para posteriormente transformarlos en modelos digitales; este procedimiento se realiza mediante la utilización de herramientas o programas especializados y que se utilizan en el cine, los videojuegos, la televisión y también en cualquier proyecto multimedia que se desea realizar. 
-        .col-lg-4.col-8.order-1.order-lg-2.mb-4.mb-lg-0
+        .col-lg-4.col-8.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in") 
           figure
             img(src="@/assets/curso/temas/t3/t3_03.svg", alt="alt")
       
-      p.mb-5 Es importante entender que hoy en día con los avances tecnológicos que se cuentan, solo bastará una buena idea creativa para poner en marcha un proyecto, en el que se puedan aplicar todas las herramientas que se tengan al alcance.
+      p(data-aos="fade-left").mb-5 Es importante entender que hoy en día con los avances tecnológicos que se cuentan, solo bastará una buena idea creativa para poner en marcha un proyecto, en el que se puedan aplicar todas las herramientas que se tengan al alcance.
 
-      h5.mb-4 Es importante identificar dos métodos principales:
+      h5(data-aos="fade-left").mb-4 Es importante identificar dos métodos principales:
 
-      AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris").mb-5
+      AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris").mb-5(data-aos="zoom-in") 
         .row.justify-content-center(titulo="Los ópticos")
           .col-lg-8
             p En los sistemas de captura de movimiento ópticos se utilizan varias cámaras que captan el movimiento del personaje y luego un programa lo captura. De esta manera, el personaje se ubica frente a las cámaras y estas capturan, ejecutan y aplican el movimiento a un modelo digital. Una de las ventajas es que el personaje puede estar como en el proceso de captura, porque no necesita de ningún implemento adicional.             

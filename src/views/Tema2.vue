@@ -7,7 +7,7 @@
         span 2
       h1 Animaciones y elementos interactivos
 
-    .bg_img_01
+    .bg_img_01(data-aos="zoom-in")
       .bloque-texto-a.cstm--color_01.p-4.p-md-5.mb-5 
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0
@@ -17,11 +17,13 @@
             .bloque-texto-a__texto.p-4
               p #[strong Los elementos interactivos y la animación dentro de todo componente multimedia enriquecen y le dan personalidad al mismo. Ya que mediante ellos se obtiene un mayor acercamiento y disfrute de dicho material, por ello se debe conocer y tener en cuenta esos elementos y componentes para darle vida a los proyectos.]
 
-      #t_2_1.titulo-segundo.color-acento-botones 
+      separador
+
+      #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-left") 
         h2 2.1 Diseño de personajes
 
       .row.justify-content-center.mb-5
-        .col-lg-8.order-2.order-lg-1
+        .col-lg-8.order-2.order-lg-1(data-aos="fade-left") 
           p Siendo un tema tan extenso y que contempla cientos de temas se puede plantear que la construcción de un personaje es un concepto tan amplio y complejo que abarca muchas áreas del pensamiento. 
           .row  
             .col-auto
@@ -29,17 +31,19 @@
                 img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
             .col
               p.mb-0 Por consiguiente, se trabajarán temas relacionados a los principios y formas básicas, anatomía y algunas leyes que son de importancia y se deben tener en cuenta en la construcción realista de personajes, etc. Se debe tener en cuenta otros temas que seguro no se abordarán, pero de los que podrá encontrar información relacionada en los diferentes enlaces que se irán presentando.
-        .col-lg-4.col-8.order-1.order-lg-2.mb-4.mb-lg-0
+        .col-lg-4.col-8.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in") 
           figure
             img(src="@/assets/curso/temas/t2/t2_02.svg", alt="alt")
 
-      figure.mb-5
-        img(src="@/assets/curso/temas/t2/t2_03.png", alt="alt")
+      .row.justify-content-center
+        .col-lg-10
+          figure.mb-5(data-aos="zoom-in") 
+            img(src="@/assets/curso/temas/t2/t2_03.png", alt="alt")
 
-    .cajon.cjn--paleBlue.p-4.mb-5
+    .cajon.cjn--paleBlue.p-4.mb-5(data-aos="fade-left") 
       p.mb-0 Antes de continuar con el proceso de construcción es importante pensar y empezar a darle características a los personajes; no solo son trazos en un papel, ya que lo que se quiere trasmitir siempre es un mensaje y es muy importante construirlo, además del estilo y rasgos coherentemente, por eso se plantea unos principios por los que pasa un proceso para la creación y diseño de un personaje.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in") 
       .col-lg-10
         .row.justify-content-center.align-items-lg-center.mb-5
           .col-auto.avtr-txt
@@ -48,13 +52,13 @@
           .col
             p.mb-0 #[strong Como todo proceso se debe entender que los pasos no son una guía estricta, sino que son herramientas que ayudarán a que el personaje vaya acorde con lo que se pretende plantear, que tenga unas características y principios que generen una emoción en la persona que aprecia el personaje y una muy buena ilustración; de lo contrario el personaje no sabrá cómo comunicarse con el entorno.]
 
-    .bg_img_03.mb-5
+    .bg_img_03.mb-5(data-aos="fade-left") 
       .row.mb-4
         .col-auto
           h3.custom-H3 Arquetipos o paradigma del personaje 
       
       .row.justify-content-center.mb-5
-        .col-lg-8.mb-4.mb-lg-0
+        .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right") 
           p.mb-4 Uno de los primeros puntos a los que se hará referencia es al arquetipo del personaje y esto según los expertos es la manera más sencilla de definir a una persona, siendo esta la primera de las características que se deben tener en cuenta; se encuentran arquetipos tradicionales que ayudarán a enmarcar con una serie de características y comportamientos. A continuación, diferentes modelos de arquetipos: 
           .tarjeta.color-secundario.p-3.mb-4
             .row.justify-content-around.align-items-center
@@ -70,32 +74,32 @@
                       span.clr--base Descargar
                       i.clr--base.fas.fa-file-download
 
-        .col-lg-4.col-8
+        .col-lg-4.col-8(data-aos="zoom-in") 
           figure
             img(src="@/assets/curso/temas/t2/t2_04.svg", alt="alt")
     
-      .row.mb-4
+      .row.mb-4(data-aos="fade-left") 
         .col-auto
           h3.custom-H3 Anatomía
 
-      p.mb-5 El diseño de personajes es un área en la que la fundamentación es clave y se debe tener un claro conocimiento para ayudar a crear personajes reales, estructurados, que sean y se comporten sobre planos reales, comprender la lógica de la anatomía y las conexiones con el ambiente natural.
+      p(data-aos="fade-right") .mb-5 El diseño de personajes es un área en la que la fundamentación es clave y se debe tener un claro conocimiento para ayudar a crear personajes reales, estructurados, que sean y se comporten sobre planos reales, comprender la lógica de la anatomía y las conexiones con el ambiente natural.
 
-      .row.justify-content-center
+      .row.justify-content-center(data-aos="zoom-in") 
         .col-lg-8
           figure
             img(src="@/assets/curso/temas/t2/t2_05.png", alt="alt")
 
-    .row.mb-4
+    .row.mb-4(data-aos="zoom-in") 
       .col-auto
         h3.custom-H3 Volúmenes y sombras
 
-    p El volumen es uno de los aspectos que distingue a lo que lo rodea, es una característica que depende de la luz y de la sombra que se produce, se puede deducir que el volumen de un objeto se define por la intensidad y la distancia de las sombras. 
+    p(data-aos="fade-right")  El volumen es uno de los aspectos que distingue a lo que lo rodea, es una característica que depende de la luz y de la sombra que se produce, se puede deducir que el volumen de un objeto se define por la intensidad y la distancia de las sombras. 
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_06.svg", alt="alt")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right") 
         .row.mb-4
           .col-auto
             figure
@@ -105,12 +109,12 @@
 
         p.mb-0 La sombra es la ausencia de luz, lo cual actúa como un contraste con respecto a otras zonas. 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left") 
       .col-auto
         h3.custom-H3 Líneas de acción
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right") 
         .row.mb-4
           .col-auto
             figure
@@ -119,15 +123,15 @@
             p.mb-0 Se puede considerar que lo primero que se debe trazar al momento de realizar un dibujo es la línea de acción, esta es imaginaria y se basa en la línea que da la curvatura de la espina dorsal, denota una serie de cualidades al momento de usar un tipo de línea. 
         .cajon.cjn--paleBlue.p-4.mb-4
           p.mb-0 Esta línea ayuda a definir movimientos, actitudes y la forma de comunicación que el personaje intenta llevar a cabo, es vital dado que esta línea de acción debe dar dinamismo, definiendo algunas actitudes.     
-      .col-lg-4.col-10
+      .col-lg-4.col-10(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_07.png", alt="alt")
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-10.order-2.order-lg-1
+      .col-lg-4.col-10.order-2.order-lg-1(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_08.png", alt="alt")
-      .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-right") 
         p Es una herramienta que ayuda a crear poses, haciendo que el ojo las pueda leer más claramente al darle una dirección a las acciones y movimientos. 
         .row.mb-4
           .col-auto
@@ -139,14 +143,15 @@
           p.mb-0 Figuras retóricas como la exageración ayudan a que los personajes puedan transmitir las emociones a través de las líneas de acción, captando mayor sensación y fuerza en las acciones.    
 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left") 
       .col-auto
         h3.custom-H3 Hojas de personaje o #[em Character model sheet]
 
-    p Básicamente una hoja de personaje es donde se van a plasmar todas las vistas posibles del personaje en cuestión, vistas frontales, laterales, espalda, etc. En estos modelos se pueden referir detalles como complementos para su vestido, expresiones faciales y diferentes poses que ayudarán a dar más contexto de los personajes. 
+    .squareTop(data-aos="fade-right")
+      p Básicamente una hoja de personaje es donde se van a plasmar todas las vistas posibles del personaje en cuestión, vistas frontales, laterales, espalda, etc. En estos modelos se pueden referir detalles como complementos para su vestido, expresiones faciales y diferentes poses que ayudarán a dar más contexto de los personajes. 
 
     .row.justify-content-center.mb-5
-      .col-lg-8     
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")     
         .row.mb-4
           .col-auto
             figure
@@ -155,22 +160,22 @@
             p.mb-0 Es de igual importancia para algunos casos cuando el trabajo de animación lo realizan varias personas que todos puedan trabajar sobre unas bases y lineamientos, que se puedan ilustrar con las mismas características y respetar siempre las mismas proporciones del personaje, etc.
         .cajon.cjn--paleBlue.p-4
           p.mb-0 #[strong Para hacer una construcción de personajes siempre es importante pensar en formas básicas para representar el concepto y poder girar o rotar los personajes. Esto sirve para dar volumen y un aspecto tridimensional a los personajes; es importante poder construir las vistas de los personajes para aumentar las características y de igual importancia poder plasmar sus actitudes, con el fin de contemplar el comportamiento de sus acciones.]              
-      .col-lg-4.col-8    
+      .col-lg-4.col-8(data-aos="zoom-in")     
         figure
           img(src="@/assets/curso/temas/t2/t2_09.png", alt="alt")
 
-      p.pt-4 También se puede encontrar muchos ejemplos donde se construyen los modelos geométricos y las medidas de personaje, como también hojas de modelo de accesorios o vehículos, que ayudan a recrear y dar más información para la construcción de una historia. 
-
+      .squareTop.pt-4 
+        p También se puede encontrar muchos ejemplos donde se construyen los modelos geométricos y las medidas de personaje, como también hojas de modelo de accesorios o vehículos, que ayudan a recrear y dar más información para la construcción de una historia. 
     
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left") 
       .col-auto
         h3.custom-H3 #[em Storyboard y animatic]
 
     .row.justify-content-center.mb-4
-      .col-lg-4.col-8.order-2.order-lg-1
+      .col-lg-4.col-8.order-2.order-lg-1(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_10.svg", alt="alt")
-      .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-right") 
         .squareTop          
           p Herramientas que ayudan a dar movimiento a las imágenes y a aclarar las ideas sobre lo que se quiere hacer, permitiendo que los errores sean menores y así aminorar costos. Son útiles implementos donde se puede integrar imágenes y especificar detalles como la música, voces, efectos de sonido y toda la información necesaria para poder contar una historia, un comercial, una película, un corto, etc.
         .row.mb-4
@@ -183,24 +188,24 @@
           p.mb-0 Al igual se pueden adicionar y mejorar escenas, también son de gran importancia al detectar fallas de secuencias o de guion, para poder lograr una continuidad y poder avanzar en próximas fases de producción.
 
     .squareTop.mb-4          
-      p La gran diferencia entre el #[em storyboard] y el #[em animatic] es que el primero, se encuentra compuesto por imágenes y dibujos, mientras que el #[em animatic] es la evolución, dado que permite animar escenas o personajes, creando #[em historyboard] más complejos y con más información relevante para la historia. 
+      p(data-aos="fade-right") La gran diferencia entre el #[em storyboard] y el #[em animatic] es que el primero, se encuentra compuesto por imágenes y dibujos, mientras que el #[em animatic] es la evolución, dado que permite animar escenas o personajes, creando #[em historyboard] más complejos y con más información relevante para la historia. 
 
     .row.justify-content-center.mb-4
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .row
           .col-auto
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col
             p.mb-0 El #[em animatic] es un proceso muy cercano a la animación final, por eso su uso se ha convertido en una herramienta que ha ganado espacio, dado la facilidad de las herramientas con las que se trabajan detalles en el #[em timing], los cortes y la duración de las escenas, la musicalización de cada una y el uso de las voces y otras herramientas que hacen que los productos con los que se trabajan sean lo más cercanos a las animaciones o proyectos finales. Según el diseñador de animaciones Mario Maldonado (2018) el #[em storyboard] es un #[em animatic] en bruto, sin afinar, mientras que el #[em animatic] ya es un #[em storyboard] completo y afinado sobre el cual se trabajará toda la animación y marcará la duración final.
-      .col-lg-4.col-8
+      .col-lg-4.col-8(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_11.svg", alt="alt")
 
-    .cajon.cjn--paleBlue.p-4.mb-4
+    .cajon.cjn--paleBlue.p-4.mb-4(data-aos="zoom-in") 
       p.mb-0 Se puede analizar diferentes páginas que contienen información valiosa al momento de empezar a trabajar estas herramientas, con diferentes ejemplos que ayudarán a conceptualizar más fácilmente la información que debería estar presente en cualquier opción: 
 
-    .tarjeta.color-secundario.p-3.mb-4
+    .tarjeta.color-secundario.p-3.mb-4(data-aos="zoom-in") 
       .row.justify-content-around.align-items-center
         .col-auto
           img(src="@/assets/curso/temas/recursos/cta_03.svg").img90
@@ -214,10 +219,10 @@
                 span.clr--base Ir a página
                 i.clr--base.fas.fa-file-download
 
-    .tarjeta.color-secundario.p-3.mb-4
+    .tarjeta.color-secundario.p-3.mb-4(data-aos="zoom-in") 
       .row.justify-content-around.align-items-center
         .col-auto
-          img(src="@/assets/curso/temas/recursos/cta_03.svg").img90
+          img(src="@/assets/curso/temas/recursos/cta_02.svg").img90
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -230,11 +235,11 @@
 
     separador
 
-    #t_2_2.titulo-segundo.color-acento-botones 
+    #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-left") 
         h2 2.2 Animación y elementos interactivos
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right") 
         .squareTop
           p.mb-4 La animación es el proceso que utilizan los diseñadores y los profesionales para dar sensación de movimiento a imágenes estáticas, dibujos y seres u objetos inanimados; se considera que es una ilusión que hace el cerebro al juntar a una velocidad imperceptible todas las imágenes y darles sensación de movimiento.
         .row
@@ -244,18 +249,18 @@
           .col
             p.mb-0 Existen distintas técnicas de animación, las cuales se explicarán más adelante, por ahora se hará énfasis en las cuatro características básicas de la animación, que permiten que las cosas y los personajes cobren vida, se muevan y hagan acciones dentro de un escenario determinado, apegándose a leyes de la física, etc. Otras características que pueden dar contexto a las animaciones son los gestos y personificaciones del personaje como los elementos físicos que componen el escenario.
 
-      .col-lg-4.col-8
+      .col-lg-4.col-8(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_12.svg", alt="alt")
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right") 
       .col-auto
         h3.custom-H3 Características internas
 
-    .squareTop.mb-5
+    .squareTop.mb-5(data-aos="fade-right") 
       p.mb-0 Las características básicas o las características internas de la animación se apoyan en la posibilidad que tiene el ojo humano y el cerebro de juntar las imágenes y producir una animación. La capacidad del cerebro no puede percibir un número muy grande de imágenes por segundo, por lo que investigaciones y profesionales en la materia tienen un parámetro de unas 30 imágenes por segundo, es decir, que para hacer un #[em film] de un minuto se deberían elaborar alrededor de 1800 imágenes. 
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right") 
       .col-auto
         figure
           img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
@@ -318,10 +323,10 @@
         .col-12.mt-4
           p.mb-0 Todas estas características están relacionadas entre sí, dándole sentido a las animaciones, a los personajes y a todas las cosas que se mueven y hacen acciones en un escenario, todo esto es lo que se refiere a la secuencia misma de una animación.
 
-    .tarjeta.color-secundario.p-3.mb-5
+    .tarjeta.color-secundario.p-3.mb-5(data-aos="zoom-in") 
       .row.justify-content-around.align-items-center
         .col-auto
-          img(src="@/assets/curso/temas/recursos/cta_03.svg").img90
+          img(src="@/assets/curso/temas/recursos/cta_02.svg").img90
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
@@ -332,12 +337,12 @@
                 span.clr--base Ver video
                 i.clr--base.fas.fa-file-download
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left") 
       .col-auto
         h3.custom-H3 Técnicas de  animación
     
     .row.justify-content-center.mb-5
-      .col-lg-8.order-2.order-lg-1
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right") 
         .squareTop.mb-4
           p.mb-0 Animar o darle alma a un ser inanimado es un trabajo de pura interpretación, transformándose en un proceso artístico, que fusiona elementos como la observación y la comprensión sobre cómo funcionan esos elementos en situaciones ordinarias, dándole a estos procesos de observación una transformación y convirtiéndolos en elementos más creativos y a su vez en animaciones más creíbles.
         .row
@@ -346,11 +351,11 @@
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col
             p.mb-0 Se entiende que la animación puede dividirse en dos grandes tipos, la animación tradicional o realizada con procesos artesanales, y la animación digital que viene ayudada y de la mano de programas, herramientas y #[em software] de diseño. Estas técnicas se explican a continuación:
-      .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_18.svg", alt="alt")
 
-    TabsC.color-acento-botones
+    TabsC.color-acento-botones(data-aos="zoom-in").mb-5 
       .py-3.py-md-4(titulo="<em>Flipbook o filoscopio</em>")
         .row.justify-content-center 
           .col-lg-8.mb-4.mb-lg-0
@@ -420,14 +425,14 @@
           .col-12
             p.mb-0 Gracias a los procesos y al continuo avance de la tecnología se pueden encontrar diferentes programas que pueden ser utilizadas en diferentes proyectos 3D, programas que integran personajes reales con animaciones en 3D, muy utilizadas en la creación de videojuegos y películas que utilizan la captura de movimiento para crear animaciones cada vez más realistas. Es un proceso arduo, ya que para crear animación 3D se debe hacer la creación y modelaje de personajes, texturizar cada elemento para darle riqueza visual, iluminar adecuadamente cada ambiente para crear atmósferas reales y finalmente, juntar todos los elementos para poder crear un movimiento creíble y deseado. 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left") 
       .col-auto
         h3.custom-H3 #[em Software] de animación y maquetación  
 
-    .squareTop.mb-5
+    .squareTop.mb-5(data-aos="fade-right") 
       p.mb-0 Con el paso de los años las herramientas de creación de contenido animado han venido evolucionando y haciéndose paso en el mundo del diseño, por eso se encuentran herramientas muy poderosas que ayudarán con la creación de películas, cortos, diseño de personajes, etc., todos especializados en el campo donde en el que se vaya a trabajar. Se hará una mención a algunos de estos programas y se hablará de las cualidades de cada uno. 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in") 
       .col-lg-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
@@ -476,11 +481,11 @@
                 img(src="@/assets/curso/temas/t2/t2_32.svg", alt="alt").img120.m-auto
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-10.mb-4.mb-lg-0
+      .col-lg-4.col-10.mb-4.mb-lg-0(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_33.svg", alt="alt")
-      .col-lg-8
-        p Ahora sí, teniendo en cuenta todas estas características se puede avanzar en #[span.clr--blue la construcción de elementos y personajes con herramientas y #[em software] que permitirán verter todos los conocimientos previos] para lograr y alcanzar las metas propuestas. 
+      .col-lg-8(data-aos="fade-right") 
+        p Ahora sí, teniendo en cuenta todas estas características se puede avanzar en #[span.bold.clr--orange la construcción de elementos y personajes con herramientas y #[em software] que permitirán verter todos los conocimientos previos] para lograr y alcanzar las metas propuestas. 
         .row
           .col-auto
             figure
@@ -488,7 +493,7 @@
           .col
             p.mb-0 Como se ha venido trabajando en este componente se puede hacer una diferencia entre los programas de pago, que tienen un sin número de herramientas y los #[em software] de código abierto, que son muy buenas herramientas al momento de empezar a adentrarse en el mundo de la animación. #[strong Ya sea creando videos informativos, infografías, cortos para la escuela o algún proyecto con grandes animaciones, los siguientes programas serán de mucha ayuda al momento de plantear la mejor herramienta:]
 
-    .slyderBg_01.pt-5.p-4(data-aos="fade").mb-5
+    .slyderBg_01.pt-5.p-4(data-aos="zoom-in").mb-5
       SlyderA(tipo="b")
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -564,7 +569,7 @@
             
             p.mb-0 Trabaja por #[em key frames], lo que permite trabajar interpolaciones, herramientas de renderizado y animación que superan las expectativas para un servicio en línea.
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in") 
       .col-lg-10
         .row.justify-content-center.align-items-lg-center.mb-5
           .col-auto.avtr-txt
@@ -573,12 +578,12 @@
           .col
             p.mb-0 #[strong Se ha podido ver diferentes y útiles programas y aplicaciones tanto comerciales como de código abierto, todas muy buenas herramientas para poder arrancar este largo camino que es la animación; encuentre la mejor herramienta para la creación de los mejores proyectos de comunicación.]
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left") 
       .col-auto
         h3.custom-H3 Formatos de salida y procesamiento
 
     .row.justify-content-center.mb-5
-      .col-lg-8.order-2.order-lg-1
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right") 
         .squareTop.mb-4
           p.mb-0 Como se acaba de concluir, la animación es una secuencia continua de varias imágenes que seguidas recrean la sensación de animación, lo que vendría a ser en el campo digital una imagen digital, seguida de varias imágenes digitales, así mismo, se podría suponer una consecución de “formatos jpg” seguidos; para esta secuencia de fotogramas o imágenes existen unos formatos específicos para archivos de animación y otros animados más genéricos. 
         .row
@@ -587,15 +592,15 @@
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt").img30
           .col
             p.mb-0 Entre estos archivos que pueden soportar o procesar formatos como la animación se encuentran formatos GIF y SWF, los primeros guardan información cuadro a cuadro, los segundos información en tiempo real.
-      .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_42.svg", alt="alt")
 
-    .cajon.cjn--paleBlue.p-4.mb-5
+    .cajon.cjn--paleBlue.p-4.mb-5(data-aos="zoom-in") 
       p.mb-0 Se encontrarán archivos específicos en el mundo laboral, pero vendrán de la mano de los programas en los cuales se realizaron, algunos de los más utilizados son:
 
     .row.justify-content-center.align-items-center
-      .col-lg-3.d-none.d-lg-flex
+      .col-lg-3.d-none.d-lg-flex(data-aos="zoom-in") 
         figure
           img(src="@/assets/curso/temas/t2/t2_47.svg", alt="alt")
       .col-lg-9
