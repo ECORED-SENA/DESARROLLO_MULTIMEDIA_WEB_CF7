@@ -82,7 +82,7 @@
         .col-auto
           h3.custom-H3 Anatomía
 
-      p(data-aos="fade-right") .mb-5 El diseño de personajes es un área en la que la fundamentación es clave y se debe tener un claro conocimiento para ayudar a crear personajes reales, estructurados, que sean y se comporten sobre planos reales, comprender la lógica de la anatomía y las conexiones con el ambiente natural.
+      p(data-aos="fade-right").mb-5 El diseño de personajes es un área en la que la fundamentación es clave y se debe tener un claro conocimiento para ayudar a crear personajes reales, estructurados, que sean y se comporten sobre planos reales, comprender la lógica de la anatomía y las conexiones con el ambiente natural.
 
       .row.justify-content-center(data-aos="zoom-in") 
         .col-lg-8
@@ -150,7 +150,7 @@
     .squareTop(data-aos="fade-right")
       p Básicamente una hoja de personaje es donde se van a plasmar todas las vistas posibles del personaje en cuestión, vistas frontales, laterales, espalda, etc. En estos modelos se pueden referir detalles como complementos para su vestido, expresiones faciales y diferentes poses que ayudarán a dar más contexto de los personajes. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")     
         .row.mb-4
           .col-auto
@@ -164,8 +164,8 @@
         figure
           img(src="@/assets/curso/temas/t2/t2_09.png", alt="alt")
 
-      .squareTop.pt-4 
-        p También se puede encontrar muchos ejemplos donde se construyen los modelos geométricos y las medidas de personaje, como también hojas de modelo de accesorios o vehículos, que ayudan a recrear y dar más información para la construcción de una historia. 
+    .squareTop.mb-5
+      p También se puede encontrar muchos ejemplos donde se construyen los modelos geométricos y las medidas de personaje, como también hojas de modelo de accesorios o vehículos, que ayudan a recrear y dar más información para la construcción de una historia. 
     
     .row.mb-4(data-aos="fade-left") 
       .col-auto
