@@ -317,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Alonso, A. (2019). Definición de imagen vectorial. Marketing4ecommerce',
+        'Alonso, A. (2019). Qué es una imagen vectorial: características y diferencias con los mapas de bits. Marketing4ecommerce',
       link:
         'https://marketing4ecommerce.co/que-es-una-imagen-vectorial-y-como-reconocerla/',
     },
@@ -362,8 +362,7 @@ export default {
     },
     {
       referencia: 'Mastoner. (2019). Definición CMYK.',
-      link:
-        'https://www.mastoner.com/blog/post/imprimir-cmyk-o-rgb-%C2%BFqu%C3%A9-formato-elegir/',
+      link: 'https://mastoner.com/blog/imprimir-cmyk-o-rgb-que-formato-elegir/',
     },
     {
       referencia: 'Morales, A. (2019). Definición de polisemia. ',
@@ -391,10 +390,6 @@ export default {
         'Señal Colombia Proyecta. (2018). ¿Qué es y cómo hacer un transmedia? ',
       link:
         'http://proyecta.senalcolombia.tv/guias/que-es-y-como-hacer-un-transmedia',
-    },
-    {
-      referencia: 'Tuenti. (s.f.). Definición de megapíxel',
-      link: 'https://www.tuenti.es/blog/diccionario/que-es-un-megapixel/',
     },
     {
       referencia: 'Ucha, F. (2011). Definición de imagen digital. ',
@@ -471,10 +466,33 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Gisselle Murcia Pardo',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Caceres Arenales',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Revisión de guion',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Magdi Khalifah',
@@ -483,7 +501,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

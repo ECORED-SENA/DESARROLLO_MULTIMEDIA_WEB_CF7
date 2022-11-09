@@ -72,7 +72,7 @@
     separador
 
     #t_4_2.titulo-segundo.color-acento-botones(data-aos="fade-right") 
-      h2 4.2 video
+      h2 4.2 Video
     
     figure(data-aos="zoom-in")
       img(src="@/assets/curso/temas/t4/t4_04.png", alt="alt")
@@ -244,7 +244,7 @@
 
           .row(numero="3" titulo="Optimización")
             .col
-              p.mb-0 Actualmente el marketing digital es sin duda, un medio que las empresas utilizan para presentar sus estrategias, tener presente una serie de recomendaciones a la hora de implementar videos en los medios digitales ayudará a una mejor optimización. 
+              p.mb-0 Actualmente el #[em marketing] digital es sin duda, un medio que las empresas utilizan para presentar sus estrategias, tener presente una serie de recomendaciones a la hora de implementar videos en los medios digitales ayudará a una mejor optimización. 
 
           .row(numero="4" titulo="Visualizaciones")
             .col
@@ -317,7 +317,7 @@
     separador
 
     #t_4_3.titulo-segundo.color-acento-botones(data-aos="fade-right") 
-      h2 4.3 sonido
+      h2 4.3 Sonido
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -516,7 +516,7 @@
 
           .row(numero="3" titulo="Duración")
             .col
-              p.mb-0 En ocasiones se puede utilizar un fragmento más corto que reproducido en bucle cubre el tiempo suficiente de acompañamiento musical, a estos se les llama loops.
+              p.mb-0 En ocasiones se puede utilizar un fragmento más corto que reproducido en bucle cubre el tiempo suficiente de acompañamiento musical, a estos se les llama #[em loops].
 
           .row(numero="4" titulo="Calidad estéreo/mono")
             .col
@@ -702,7 +702,7 @@
             figure
               img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
           .col
-            p.mb-0 Un ejemplo es la franquicia Marvel que es uno de los fenómenos transmedia de mayor éxito y relevancia en la industria del entretenimiento. Cómics, series, videojuegos y películas han construido un mundo de ficción que ha incentivado la consolidación de un fandom con una actividad frecuente en las comunidades digitales.
+            p.mb-0 Un ejemplo es la franquicia Marvel que es uno de los fenómenos transmedia de mayor éxito y relevancia en la industria del entretenimiento. Cómics, series, videojuegos y películas han construido un mundo de ficción que ha incentivado la consolidación de un #[em fandom] con una actividad frecuente en las comunidades digitales.
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_48.svg", alt="alt")
@@ -783,7 +783,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--mint
-            | #[strong Diapositiva 7:] el estrategia de marketing que se utilizará para llegar a los clientes.
+            | #[strong Diapositiva 7:] la estrategia de marketing que se utilizará para llegar a los clientes.
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--mint

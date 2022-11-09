@@ -212,7 +212,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Drawing and composition
+              h3.mb-1 Ejemplo de #[em storyboard]
               p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente link: 
             .col-sm-auto
               a.boton.color-acento-botones(href="http://www.floobynooby.com/comp1.html" target="_blank")
@@ -274,7 +274,7 @@
           p.mb-4 Es una de las características más importantes, dado que da sentido y realismo a las secuencias, se entiende que el movimiento no es lineal, sino que va cambiando en la fase donde se encuentre, es decir, el movimiento empieza con una aceleración, luego acelera o se realiza la acción y finalmente se desacelera o se detiene.   
             
           .cajon.cjn--grayBlue.p-4
-            p.mb-0 Estos conceptos se entienden como “Ease IN” en las etapas de inicio de movimiento y “Ease Out” o desaceleración para finalizar el movimiento; todos los elementos que interactúan en la construcción de una animación deberían tener en cuenta este primer concepto. 
+            p.mb-0 Estos conceptos se entienden como #[em “Ease IN”] en las etapas de inicio de movimiento y #[em “Ease Out”] o desaceleración para finalizar el movimiento; todos los elementos que interactúan en la construcción de una animación deberían tener en cuenta este primer concepto. 
 
         .col-lg-6
           figure
@@ -330,8 +330,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 12 principios dela animación
-              p.text-small Estimado aprendiz, se puede observar el siguiente video para reforzar sobre el tema:
+              h3.mb-1 12 principios de la animación
+              p.text-small Estimado aprendiz, se puede observar el siguiente video para reforzar sobre el tema.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=haa7n3UGyDc&list=PLWmOmuxhrhQvHUwM7yGw5koprnB5Dz47C&index=1" target="_blank")
                 span.clr--base Ver video
@@ -360,15 +360,15 @@
         .row.justify-content-center 
           .col-lg-8.mb-4.mb-lg-0
             h4 #[em Flipbook o filoscopio]
-            p.mb-0 TEs un libro que contiene una serie de imágenes que cambian de una a la otra, para cuando estas imágenes se pasen rápido den la impresión de estar en movimiento; es la forma más primitiva de animación, las imágenes van pasando una a la otra creando la ilusión de movimiento. Se conocían antiguamente como cine de pulgar, ya que en una mano sostenía el filoscopio y con el dedo pulgar se pasaban las imágenes de una a la otra. 
+            p.mb-0 Es un libro que contiene una serie de imágenes que cambian de una a la otra, para cuando estas imágenes se pasen rápido den la impresión de estar en movimiento; es la forma más primitiva de animación, las imágenes van pasando una a la otra creando la ilusión de movimiento. Se conocían antiguamente como cine de pulgar, ya que en una mano sostenía el filoscopio y con el dedo pulgar se pasaban las imágenes de una a la otra. 
           .col-lg-4.col-8
             figure
               img(src="@/assets/curso/temas/t2/t2_19.png", alt="alt") 
 
-      .py-3.py-md-4(titulo="<em>Stopmotion</em>")
+      .py-3.py-md-4(titulo="<em>Stop motion</em>")
         .row.justify-content-center 
           .col-lg-8.mb-4.mb-lg-0
-            h4 #[em Stopmotion]
+            h4 #[em Stop Motion]
             p.mb-0 Una de las técnicas más clásicas de animación, básicamente la técnica consiste en captar imágenes de objetos estáticos, con ligeras variaciones para crear el efecto de movimiento. Esta técnica se emplea para animaciones en 2D como en 3D, solo que para las animaciones en 2D se conocen por el nombre de Cut Out y Clay Mation para animaciones en 3D. 
           .col-lg-4.col-8
             figure
@@ -378,7 +378,7 @@
         .row.justify-content-center 
           .col-lg-8.mb-4.mb-lg-0
             h4 #[em Cut Out]
-            p.mb-0 El #[em Cut Out] o animación por recortes es una variante del #[em StopMotion] que se basa en la utilización de recortes planos en 2D o fotografías, para la creación de los personajes, dándoles movimientos y así creando la sensación de movimiento.
+            p.mb-0 El #[em Cut Out] o animación por recortes es una variante del #[em Stop Motion] que se basa en la utilización de recortes planos en 2D o fotografías, para la creación de los personajes, dándoles movimientos y así creando la sensación de movimiento.
           .col-lg-4.col-8
             figure
               img(src="@/assets/curso/temas/t2/t2_21.png", alt="alt") 
@@ -387,7 +387,7 @@
         .row.justify-content-center 
           .col-lg-8.mb-4.mb-lg-0
             h4 #[em Clay Mation o Plastimación]
-            p.mb-0 Animación en 2D, que utiliza los mismos principios del #[em StopMotion] y el #[em Cut Out], solo que los protagonistas de estas animaciones son los objetos y elementos que se crean con plastilina, y otros materiales como arcilla, cerámica o cualquier elemento que pueda ser fácilmente moldeable y que dé sensaciones en 3D. 
+            p.mb-0 Animación en 2D, que utiliza los mismos principios del #[em Stop Motion] y el #[em Cut Out], solo que los protagonistas de estas animaciones son los objetos y elementos que se crean con plastilina, y otros materiales como arcilla, cerámica o cualquier elemento que pueda ser fácilmente moldeable y que dé sensaciones en 3D. 
           .col-lg-4.col-8
             figure
               img(src="@/assets/curso/temas/t2/t2_22.png", alt="alt")   
@@ -405,7 +405,7 @@
         .row.justify-content-center 
           .col-lg-8.mb-4.mb-lg-0
             h4 #[em Pixilación]
-            p Otra de las variantes del #[em StopMotion], a diferencia de usar elementos creados, muñecos, marionetas o simples recortes; en el proceso de pixilación se fotografían repetidamente seres humanos con elementos comunes, haciendo o creando el movimiento de los elementos, fusionándolos con las acciones de las personas.
+            p Otra de las variantes del #[em Stop Motion], a diferencia de usar elementos creados, muñecos, marionetas o simples recortes; en el proceso de pixilación se fotografían repetidamente seres humanos con elementos comunes, haciendo o creando el movimiento de los elementos, fusionándolos con las acciones de las personas.
             p.mb-0 Dentro de esta categoría existen muchas técnicas que se valen de #[em software] de animación y diseño para crear otras técnicas, fusionándolas con otros elementos.
           .col-lg-4.col-8
             figure
@@ -422,7 +422,7 @@
             figure
               img(src="@/assets/curso/temas/t2/t2_25.png", alt="alt")  
 
-          .col-12
+          .col-12.mt-4
             p.mb-0 Gracias a los procesos y al continuo avance de la tecnología se pueden encontrar diferentes programas que pueden ser utilizadas en diferentes proyectos 3D, programas que integran personajes reales con animaciones en 3D, muy utilizadas en la creación de videojuegos y películas que utilizan la captura de movimiento para crear animaciones cada vez más realistas. Es un proceso arduo, ya que para crear animación 3D se debe hacer la creación y modelaje de personajes, texturizar cada elemento para darle riqueza visual, iluminar adecuadamente cada ambiente para crear atmósferas reales y finalmente, juntar todos los elementos para poder crear un movimiento creíble y deseado. 
 
     .row.mb-4(data-aos="fade-left") 
@@ -448,7 +448,7 @@
                 img(src="@/assets/curso/temas/t2/t2_27.svg", alt="alt").img120.m-auto
             .col
               h3.text-start ¿Qué se necesita para saber animar?  
-              p.text-start Además de aprender programas o #[em software] para la realización de animaciones, es de vital importancia conocer ciertos puntos para poder ejecutar proyectos de animación, elementos que ayudarán a comprender y dominar herramientas necesarias, al momento crear animaciones que llamen la atención:
+              p.text-start Además de aprender programas o #[em software] para la realización de animaciones, es de vital importancia conocer ciertos puntos para poder ejecutar proyectos de animación, elementos que ayudarán a comprender y dominar herramientas necesarias, al momento crear animaciones que llamen la atención.
           .row
             .col               
               p Saber dibujar y conocer sobre temas como perspectiva, anatomía de personajes, física de movimiento, etc. Herramientas que se han señalado anteriormente como movimiento, aceleración, composiciones de escenas, aplicación de fuerzas y otros conocimientos, que ayudarán a entender cómo funcionan las cosas dentro de los escenarios. 
@@ -509,7 +509,7 @@
               img(src='@/assets/curso/temas/t2/t2_35.png', alt='')
           .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left.ps-4
             h4 Adobe Character Animator
-            p.mb-0 Continuando con la familia Adobe y con la animación 2D, es una de las herramientas más recientes de la familia, permitiendo animar personajes y diferentes elementos animados en tiempo real, de  forma muy rápida y sencilla.
+            p Continuando con la familia Adobe y con la animación 2D, es una de las herramientas más recientes de la familia, permitiendo animar personajes y diferentes elementos animados en tiempo real, de  forma muy rápida y sencilla.
             
             p Con la posibilidad a menudo de tener una cámara a disposición, simplemente se conecta la cámara al #[em software] y este reconoce los movimientos que se efectúan, pasando a animar personajes o marionetas que se utilizan específicamente para este sistema, siendo esta una de sus contras.
 
@@ -537,9 +537,9 @@
               img(src='@/assets/curso/temas/t2/t2_38.png', alt='')
           .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left.ps-4
             h4 CelAction2D
-            p.mb-0 Es el programa por excelencia de la animación profesional, permite generar personajes desde su esqueleto, es decir, no se anima cuadro por cuadro. Es un programa fácil de aprender, usar y trabaja muy bien de la mano con programas de diseño como PhotoShop e Illustrator.
+            p Es el programa por excelencia de la animación profesional, permite generar personajes desde su esqueleto, es decir, no se anima cuadro por cuadro. Es un programa fácil de aprender, usar y trabaja muy bien de la mano con programas de diseño como Photoshop e Illustrator.
 
-            p.mb-0 Herramientas como la sincronización de labios o las diferentes cámaras de panel ayudan a controlar la animación en tiempo real.
+            p Herramientas como la sincronización de labios o las diferentes cámaras de panel ayudan a controlar la animación en tiempo real.
             
             p.mb-0 Diseñado para usuarios principiantes pero que necesitan herramientas para generar toques profesionales. 
 
@@ -548,7 +548,7 @@
             figure
               img(src='@/assets/curso/temas/t2/t2_39.png', alt='')
           .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left.ps-4
-            h4 StopMotion Studio
+            h4 Stop Motion Studio
             p.mb-0 Programa diseñado para trabajos y proyectos en 2D, su facilidad de captura de contenido permite trabajar con enfoques y balances, su herramienta de trasparencia de capas ayuda al proceso del cuadro por cuadro, permite la captura de audio y de voz, lo que permite crear animaciones más completas sin necesidad de buscar otros programas especializados. Puede incorporar periféricos con los que permite capturar perspectivas remotas, sin duda una gran herramienta para que los principiantes y los ya profesionales puedan encontrar un programa muy completo.
 
         .row.justify-content-around.align-items-center
@@ -564,7 +564,7 @@
             figure
               img(src='@/assets/curso/temas/t2/t2_41.png', alt='')
           .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left.ps-4
-            h4 Clara.IO
+            h4 Clara.io
             p Aplicación que trabaja directamente en la #[em web], es decir, que desde un navegador cualquiera se puede trabajar, incluye recursos de modelado, cortes y administración de superficies, como es un sistema que trabaja por la #[em web], su contenido se almacena en la nube, lo que la hace una herramienta poderosa al momento de trabajar proyectos en colaboración. 
             
             p.mb-0 Trabaja por #[em key frames], lo que permite trabajar interpolaciones, herramientas de renderizado y animación que superan las expectativas para un servicio en línea.

@@ -12,7 +12,7 @@
     .row.justify-content-center.mb-5.mb-lg-0(data-aos="fade") 
       .col-lg-10
         .cstmTitleCrd
-          p.mb-0 En los desarrollos multimedia, en algunos momentos se necesitará capturar imágenes o secciones para enriquecer los contenidos y a su vez, también es prioritario conocer los formatos en los que se podrían obtener para su correcto uso, en esta sección tendrá las herramientas para hacerlo posible:
+          p.mb-0 En los desarrollos multimedia, en algunos momentos se necesitará capturar imágenes o secciones para enriquecer los contenidos y a su vez, también es prioritario conocer los formatos en los que se podrían obtener para su correcto uso, en esta sección tendrá las herramientas para hacerlo posible.
 
     separador
 
@@ -38,8 +38,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Herramientas de captura de imagen-PDF
-                  p.text-small Estimado aprendiz, a partir de este documento podrá elegir el programa de capturas más acorde a su dispositivo
+                  h4.mb-1 Herramientas de captura de imagen
+                  p.text-small Estimado aprendiz, a partir de este documento podrá elegir el programa de capturas más acorde a su dispositivo.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
                     span.clr--base Descargar
@@ -79,11 +79,11 @@
           .col-lg-4
             figure
               img(src="@/assets/curso/temas/t3/t3_04.png", alt="alt")
-            figcaption.text-center Proceso de captura de movimiento con movimiento óptico, (por infrarrojos) y el esqueleto digital generado
+            figcaption.text-center Proceso de captura de movimiento con movimiento óptico, (por infrarrojos) y el esqueleto digital generado.
 
         .row.justify-content-center(titulo="No ópticos")
           .col-lg-8
-            p.mb-5 Una de sus características es la utilización de trajes para la captura de movimiento. Se dividen en dos grupos principales los mecánicos y los electromagnéticos:             
+            p.mb-5 Una de sus características es la utilización de trajes para la captura de movimiento. Se dividen en dos grupos principales, los mecánicos y los electromagnéticos:             
             
             ul.fa-ul
               li
@@ -96,10 +96,10 @@
           .col-lg-4
             figure
               img(src="@/assets/curso/temas/t3/t3_05.png", alt="alt")
-            figcaption.text-center Proceso de captura de movimiento con movimiento óptico, (por infrarrojos) y el esqueleto digital generado
+            figcaption.text-center Hombre con traje de captura de movimiento interpretando a Gollum de El Señor de los Anillos.
 
           .col-12.mt-4
-            p.mb-0 Además de estos dos tipos existe otro de reciente creación, que todavía no es muy usado. Se trata de los sistemas de captura de movimiento inerciales en los que los sensores capturan la inercia de los movimientos y la traducen en tres valores “#[em roll, yaw y pitch]”. La principal ventaja de los sistemas de captura de movimiento no ópticos es su enorme precisión, sobre todo comparada con los ópticos, ya que están calibrados para obtener la máxima precisión. Su desventaja principal es el precio, ya que son más caros que lo ópticos y lo incómodo para el actor, ya que sus movimientos se pueden ver restringidos por el propio traje.   
+            p.mb-0 Además de estos dos tipos existe otro de reciente creación, que todavía no es muy usado. Se trata de los sistemas de captura de movimiento inerciales en los que los sensores capturan la inercia de los movimientos y la traducen en tres valores “#[em roll, yaw y pitch]”. La principal ventaja de los sistemas de captura de movimiento no ópticos es su enorme precisión, sobre todo comparada con los ópticos, ya que están calibrados para obtener la máxima precisión. Su desventaja principal es el precio, ya que son más caros que los ópticos y lo incómodo para el actor, ya que sus movimientos se pueden ver restringidos por el propio traje.   
   
 
 
