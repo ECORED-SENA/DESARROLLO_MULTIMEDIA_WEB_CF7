@@ -712,7 +712,7 @@
         h3.custom-H3 #[em Pitchbook]
 
     .squareTop.mb-5(data-aos="fade-left")
-      p Es un libro de ventas, es una presentación del marketing (diseño de información) creado por un banco de inversión o una empresa que detalla los principales atributos de la empresa, que luego es utilizado por la fuerza de ventas de la empresa para ayudar a vender productos y servicios y generar nuevos clientes. Los #[em pitchbook] son guías útiles para que la fuerza de ventas recuerde beneficios importantes y proporcione ayudas visuales cuando se presenten a los clientes.
+      p Es un libro de ventas, es una presentación del #[em marketing] (diseño de información) creado por un banco de inversión o una empresa que detalla los principales atributos de la empresa, que luego es utilizado por la fuerza de ventas de la empresa para ayudar a vender productos y servicios y generar nuevos clientes. Los #[em pitchbook] son guías útiles para que la fuerza de ventas recuerde beneficios importantes y proporcione ayudas visuales cuando se presenten a los clientes.
 
     h5(data-aos="fade-left").mb-4 Qué información debe llevar:
 
@@ -783,7 +783,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--mint
-            | #[strong Diapositiva 7:] la estrategia de marketing que se utilizará para llegar a los clientes.
+            | #[strong Diapositiva 7:] la estrategia de #[em marketing] que se utilizará para llegar a los clientes.
           .hr--line
           li
             i.fa-li.fas.fa-check-circle.clr--mint
@@ -839,7 +839,7 @@
         figure
           img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
       .col
-        p.mb-0 A continuación, descargue el siguiente contenido con el que podrá profundizar en este importante tema y conocer las características, ventajas y aplicaciones de la RA en la vida diaria:
+        p.mb-0 A continuación, descargue el siguiente contenido con el que podrá profundizar en este importante tema y conocer algunas de las principale plataformas de realidad aumentada:
 
     .tarjeta.color-secundario.p-3.mb-4(data-aos="zoom-in")
       .row.justify-content-around.align-items-center
@@ -848,10 +848,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 ¿Cómo funciona la realidad aumentada?
+              h4.mb-1 Plataformas y tecnologías sobre realidad aumentada
               p.text-small Estimado aprendiz, la RA integra los dos mundos, descargue y conozca cómo funciona.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Plataformas_RV.pdf')" target="_blank" type="application/pdf")
                 span.clr--base Descargar PDF
                 i.clr--base.fas.fa-file-download
 

@@ -331,7 +331,7 @@
               img(src='@/assets/curso/temas/t1/t1_27.png', alt='')
           .col-lg-8.dot-left
             h4 Pixlr
-            p.mb-0 Es un editor de imágenes que trabaja sobre mapa de #[em bits], es una herramienta que trabaja similar a PhotoShop o algún #[em software] similar, facilitando la edición de imágenes. Sus herramientas son más reducidas con respecto a los programas o herramientas de pago, pero es un programa que permite trabajar de manera rápida y #[em online], sin necesidad de instalar algún programa de diseño. 
+            p.mb-0 Es un editor de imágenes que trabaja sobre mapa de #[em bits], es una herramienta que trabaja similar a Photoshop o algún #[em software] similar, facilitando la edición de imágenes. Sus herramientas son más reducidas con respecto a los programas o herramientas de pago, pero es un programa que permite trabajar de manera rápida y #[em online], sin necesidad de instalar algún programa de diseño. 
 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0

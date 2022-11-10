@@ -70,7 +70,7 @@
                     h4.mb-1 Arquetipos para un personaje
                     p.text-small Estimado aprendiz, a partir de este documento encontrará las claves que le ayudarán a la construcción de arquetipos.
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Arquetipos.pdf')" target="_blank" type="application/pdf")
                       span.clr--base Descargar
                       i.clr--base.fas.fa-file-download
 
@@ -499,7 +499,7 @@
           .col-lg-3.col-8.mb-2.mb-lg-0
             figure
               img(src='@/assets/curso/temas/t2/t2_34.png', alt='')
-          .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left.ps-0.ps-lg-4
+          .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.dot-left.ps-4
             h4 Adobe Animate
             p.mb-0 Programa de animación 2D, desarrollado por la casa Adobe, es un programa que ha evolucionado, antes conocido como Flash, posee herramientas que hacen posible animar personajes y escenarios de manera sencilla; animaciones cuadro a cuadro o la posibilidad de dibujar elementos a mano, son alguna de las posibilidades que este programa permite realizar, incluso importar personajes y otros elementos.    
 

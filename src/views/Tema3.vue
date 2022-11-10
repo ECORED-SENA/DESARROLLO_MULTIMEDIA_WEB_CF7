@@ -41,7 +41,7 @@
                   h4.mb-1 Herramientas de captura de imagen
                   p.text-small Estimado aprendiz, a partir de este documento podrá elegir el programa de capturas más acorde a su dispositivo.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Herramientas_Captura.pdf')" target="_blank" type="application/pdf")
                     span.clr--base Descargar
                     i.clr--base.fas.fa-file-download
 
